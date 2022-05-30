@@ -2,17 +2,33 @@
 layout: post
 title:  "Give and Take"
 created: ["31-March-2022 21:46"]
-tags: ["#book #info #review #summarized"]
+categories: [Book, Summarized]
+tags: [reviews, summary, book, business, self-help, lifestyle, psychology]
+toc: true
+comment: true
 ---
 # Give and Take: A Revolutionary Approach to Success
 
-Author: Adam Grant
-Year of release: 2013
-Genre: Self-Help, Relationships, Lifestyle, Business, Psychology
-Pages: 204
-Average WPM: 389 
-Date Started - Finished: 13-Feb-2022 to 24-Feb-2022 
-Time took: 4.5 Hours
+Author
+: Adam Grant
+
+Year of release
+: 2013
+
+Genre
+: Self-Help, Relationships, Lifestyle, Business, Psychology
+
+Pages
+: 204
+
+Average WPM
+: 389 
+
+Date Started - Finished
+: 13-Feb-2022 to 24-Feb-2022 
+
+Time took
+: 4.5 Hours
 
 ---
 ## About the book
