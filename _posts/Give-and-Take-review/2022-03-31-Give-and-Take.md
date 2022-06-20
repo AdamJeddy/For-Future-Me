@@ -1,14 +1,12 @@
 ---
 layout: post
-title:  "Give and Take"
+title:  "Give and Take: A Revolutionary Approach to Success"
 created: ["31-March-2022 21:46"]
 categories: [Book, Summarized]
 tags: [reviews, summary, book, business, self-help, lifestyle, psychology]
 toc: true
 comment: true
 ---
-# Give and Take: A Revolutionary Approach to Success
-
 Author
 : Adam Grant
 
@@ -31,7 +29,7 @@ Time took
 : 4.5 Hours
 
 ---
-# About the book
+## About the book
 ## What I Liked About It and What I didn't
 - What I liked
 	- Gives solid advice about work environment
@@ -46,7 +44,7 @@ Time took
 - Fresh graduates
 - Anyone who want's to get better in a professional environment  
 
-## How my life / behaviour / thoughts / ideas have changed as a result of reading the book. Actionable Takeaways.
+## Actionable Takeaways
 - Basic takeaway here is don't be an asshole because you will lose in the end
 - Learned to be a giver without being a doormat
 
