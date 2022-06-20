@@ -38,11 +38,14 @@ Time took
 - What I didn't like about the book
 	- A few of the tips given aren't applicable to normal people, it is targeted to the wealthy which is pretty ironic and kind of gives into the idea of rich getting richer but it is what it is I guess
 	- Really overrated
+
 ## How I Discovered It
-- Dad told me about it
+- My Dad told me about it
+
 ## Who Should Read It?
 - Anyone who wants to get into financial literacy and personal finance
-## How my life / behaviour / thoughts / ideas have changed as a result of reading the book.
+
+## Actionable Takeaways
 - I see working / career in a very different perspective
 - It showed me the use and importance of money and how it should & shouldn't be used
 
