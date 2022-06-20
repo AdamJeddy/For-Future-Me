@@ -66,7 +66,7 @@ Time took
 
 ## Summary + Notes
 ---
-### Introduction: Rich Dad Poor Dad  
+### Introduction
 Both men believed strongly in education but did not recommend the same course of study.
 
 One dad would say
@@ -86,7 +86,7 @@ Rich dad would say:
 > The reason positive thinking alone does not work is because most people went to school and never learned how money works, so they spend their lives working for money.
 {: .prompt-tip }
 
-### Chapter One: Lesson 1: The Rich Don’t Work for Money  
+### Lesson 1: The Rich Don’t Work for Money  
 - If you can’t make up your mind decisively, then you’ll never learn to make money anyway. Opportunities come and go. Being able to know when to make quick decisions is an important skill.   
 
 - Most of the time, life does not talk to you. It just sort of pushes you around. Each push is life saying, ‘Wake up. There’s something I want you to learn.’  
@@ -110,7 +110,7 @@ Rich dad would say:
 
 - So many people say, “Oh, I’m not interested in money.” Yet they’ll work at a job for eight hours a day
 
-### Chapter Two: Lesson 2: Why Teach Financial Literacy?  
+### Lesson 2: Why Teach Financial Literacy?  
 - It’s not how much money you make. It’s how much money you keep.  
 
 > Rich people acquire assets. The poor and middle class acquire liabilities that they think are assets
@@ -122,15 +122,15 @@ Rich dad would say:
 - Wealth is a person’s ability to survive so many number of days forward—or, if I stopped working today, how long could I survive?  
 - Net worth often includes non-cash-producing assets, like stuff you bought that now sits in your garage, wealth measures how much money your money is making  
 
-### Chapter Three: Lesson 3: Mind Your Own Business  
+### Lesson 3: Mind Your Own Business  
 The mistake in becoming what you study is that too many people forget to mind their own business. They spend their lives minding someone else’s business and making that person rich.
 
 
-### Chapter Six: Lesson 6: Work to Learn—Don’t Work for Money  
+### Lesson 6: Work to Learn—Don’t Work for Money  
 > Focus on the most important law of money: “Give, and you shall receive.”
 {: .prompt-tip } 
 
-### Chapter Seven: Overcoming Obstacles  
+### Chapter 7: Overcoming Obstacles  
 The primary difference between a rich person and a poor person is how they manage fear.
 > “Cynics criticize, and winners analyze”  
 
@@ -139,11 +139,11 @@ The primary difference between a rich person and a poor person is how they manag
 
 > “Do what you feel in your heart to be right—for you’ll be criticized anyway. You’ll be damned if you do, and damned if you don’t.”  
 
-### Chapter Eight: Getting Started  
+### Chapter 8: Getting Started  
 > Whenever you feel short or in need of something, give what you want first and it will come back in buckets. That is true for money, a smile, love, or friendship.
 {: .prompt-tip }
 
-### Chapter Nine: Still Want More? Here Are Some To Do’s  
+### Chapter 9: Still Want More? Here Are Some To Do’s  
 > The definition of insanity is doing the same thing over and over and expecting a different result.
 {: .prompt-tip }
 - Profits are made in the buying, not in the selling.  
