@@ -31,26 +31,26 @@ Time took
 : 4.5 Hours
 
 ---
-## About the book
-### What I Liked About It and What I didn't
+# About the book
+## What I Liked About It and What I didn't
 - What I liked
 	- Gives solid advice about work environment
 	- Clear idea set at the beginning of the book, he keeps it consistent
 	- Structured well
 
-### How I Discovered It
--  Recommended by Ankur Warikoo in one of his videos[^footnote]
+## How I Discovered It
+-  Recommended by Ankur Warikoo in one of his videos[^1].
 
-### Who Should Read It?
+## Who Should Read It?
 - University students
 - Fresh graduates
 - Anyone who want's to get better in a professional environment  
 
-### How my life / behaviour / thoughts / ideas have changed as a result of reading the book. Actionable Takeaways.
+## How my life / behaviour / thoughts / ideas have changed as a result of reading the book. Actionable Takeaways.
 - Basic takeaway here is don't be an asshole because you will lose in the end
 - Learned to be a giver without being a doormat
 
-### Top Quotes
+## Top Quotes
 > We often stereotype givers as chumps and doormats, they turn out to be surprisingly successful
 
 > Givers succeed in a way that creates a ripple effect, enhancing the success of people around them
@@ -68,9 +68,9 @@ Time took
 > We spend the majority of our waking hours at work. This means that what we do at work becomes a fundamental part of who we are
 
 
-### Summary + Notes
+## Summary + Notes
 ---
-#### 1 - Good Returns
+### Chapter 1 - Good Returns
 
 According to conventional wisdom, highly successful people have three things in common: motivation, ability, and opportunity. If we want to succeed, we need a combination of
 1. Hard work 
@@ -102,7 +102,7 @@ Successful givers have unique approaches to interactions in four key domains: (N
 - Evaluating
 
 
-#### 2 - The Peacock and the Panda
+### Chapter 2 - The Peacock and the Panda
 Networks come with three major advantages: 
 - Private information
 - Diverse skills
@@ -120,7 +120,7 @@ Takers accumulate large networks to look important and gain access to powerful p
 Giving can be contagious.
 
 
-#### 3 - The Ripple Effect
+### Chapter 3 - The Ripple Effect
 
 Meyer summarizes his code of honor as
 1. Show up 
@@ -133,7 +133,7 @@ Quality. We need those people, like George, who aren’t afraid to say, "No, thi
 To effectively help colleagues, people need to step outside their own frames of reference.
 
 
-#### 4 - Finding the Diamond in the Rough
+### Chapter 4 - Finding the Diamond in the Rough
 
 When we treat man as he is, we make him worse than he is; when we treat him as if he already were what he potentially could be, we make him what he should be.
 
@@ -142,7 +142,7 @@ Givers focus more on the interpersonal and organizational consequences of their 
 “Good givers are great getters; they make everybody better”
 
 
-#### 5 - The Power of Powerless Communication
+### Chapter 5 - The Power of Powerless Communication
 
 Speak softly, but carry a big stick.
 
@@ -173,7 +173,7 @@ Advice seeking only works if it’s genuine.
 Powerless communication can be far more powerful and effective than meets the ear.
 
 
-#### 6 - The Art of Motivation Maintenance
+### Chapter 6 - The Art of Motivation Maintenance
 
 Bill Gates argued at the World Economic Forum, 
 > “there are two great forces of human nature: self-interest, and caring for others,”
@@ -189,12 +189,12 @@ The more one gives, the better one feels; and the better one feels about it, the
 Surprising as it seems, people who give more go on to earn more.
 
 
-#### 7 - Chump Change
+### Chapter 7 - Chump Change
 
 The other counterintuitive combination of appearances and motives is the agreeable taker, otherwise known as a faker
 
 
-#### 8 - The Scrooge Shift
+### Chapter 8 - The Scrooge Shift
 
 How selfish soever man may be supposed, there are evidently some principles in his nature which interest him in the fortunes of others, and render their happiness necessary to him, although he derives nothing from it except the pleasure of seeing it.
 
@@ -207,7 +207,7 @@ If many people personally believe in giving, but assume that others don’t, the
 When people made their identity plans known to others, they were able to claim the identity without actually following through on the behavior.
 
 
-#### 9 - Out of the Shadows
+### Chapter 9 - Out of the Shadows
 
 “Focus attention and energy on making a difference in the lives of others, and success might follow as a by-product.”
 
@@ -216,5 +216,6 @@ Can people succeed through instrumental giving, where the primary intent is gett
 We spend the majority of our waking hours at work. This means that what we do at work becomes a fundamental part of who we are
 
 
-Footnote
-[^footnote]: [# 17 Books to Read in 2022 | My Top Reads of 2021 | Ankur Warikoo](https://youtu.be/pJYFetCibXI?t=1039)
+#### Footnote
+
+[^1]: My Top Reads of 2021, Ankur Warikoo - <https://youtu.be/pJYFetCibXI?t=1039>
