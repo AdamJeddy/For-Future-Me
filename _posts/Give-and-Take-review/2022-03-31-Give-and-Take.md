@@ -39,7 +39,7 @@ Time took
 	- Structured well
 
 ### How I Discovered It
--  Recommended by Ankur Warikoo in one of his videos[^1]
+-  Recommended by Ankur Warikoo in one of his videos[^footnote]
 
 ### Who Should Read It?
 - University students
@@ -216,5 +216,5 @@ Can people succeed through instrumental giving, where the primary intent is gett
 We spend the majority of our waking hours at work. This means that what we do at work becomes a fundamental part of who we are
 
 
-Reference
-[# 17 Books to Read in 2022 | My Top Reads of 2021 | Ankur Warikoo](https://youtu.be/pJYFetCibXI?t=1039)
+Footnote
+[^footnote]: [# 17 Books to Read in 2022 | My Top Reads of 2021 | Ankur Warikoo](https://youtu.be/pJYFetCibXI?t=1039)
