@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Rich dad, Poor dad"
-created: ["31-March-2022 20:41"]
+created: ["25-January-2022 20:41"]
 categories: [Book, Summarized]
-tags: [reviews, summary, book, business, Economics, Personal Finance]
+tags: [Reviews, Summary, Book, Business, Economics, Personal Finance]
 toc: true
 comment: true
 ---
