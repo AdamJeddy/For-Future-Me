@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Give and Take: A Revolutionary Approach to Success"
+title:  "[Book] Give and Take: A Revolutionary Approach to Success"
 created: ["25-February-2022 21:46"]
 categories: [Book, Summarized]
 tags: [Reviews, Summary, Book, Business, Self-help, Lifestyle, Psychology]
