@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Art of Not Giving a Fuck"
+title:  "[Book] Art of Not Giving a F*ck"
 created: ["28-January-2022 20:52"]
 categories: [Book, Summarized]
 tags: [Reviews, Summary, Book, Self-Help, Relationships, Lifestyle]
