@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Book] Give and Take: A Revolutionary Approach to Success"
+title:  "📚 Give and Take: A Revolutionary Approach to Success"
 created: ["25-February-2022 21:46"]
 categories: [Book, Summarized]
 tags: [Reviews, Summary, Book, Business, Self-help, Lifestyle, Psychology]
@@ -30,11 +30,10 @@ Time took
 
 ---
 ## About the book
-## What I Liked About It and What I didn't
-- What I liked
-	- Gives solid advice about work environment
-	- Clear idea set at the beginning of the book, he keeps it consistent
-	- Structured well
+## What I Liked About It
+- Gives solid advice about work environment
+- Clear idea set at the beginning of the book, he keeps it consistent
+- Structured well
 
 ## How I Discovered It
 -  Recommended by Ankur Warikoo in one of his videos[^1].
