@@ -34,7 +34,7 @@ It was very well written
 - Look at habit forming from a different perspective
 
 
-## How my life have changed as a result of reading the book.
+## How my life has changed as a result of reading the book.
 - Started building better habits
 - Staying consistent with the current habits
 
