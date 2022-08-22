@@ -69,29 +69,29 @@ Be careful when you look at statistics
 ### Introduction
 A well-wrapped statistic is better than Hitler’s “big lie”; it misleads, yet it cannot be pinned on you.
 
-### CHAPTER 1 - The Sample with the Built-in Bias
+### CHAPTER 1: The Sample with the Built-in Bias
 
 - Does early discovery of cancer save lives? Probably. But of the figures commonly used to prove it the best that can be said is that they don’t.
 
 - Polls in general are biased in one specific direction, the direction of the Literary Digest error.
 
-### CHAPTER 2 - The Well - Chosen Average
+### CHAPTER 2: The Well - Chosen Average
 Use a different kind of average each time, the word “average” having a very loose meaning. It is a trick commonly used, sometimes in innocence but often in guilt, by fellows wishing to influence public opinion or sell advertising space.
 
-### CHAPTER 3 - The Little Figures That Are Not There
+### CHAPTER 3: The Little Figures That Are Not There
 > Knowing nothing about a subject is frequently healthier than knowing what is not so, and a little learning may be a dangerous thing.
 {: .prompt-tip}
 
-### CHAPTER 4 - Much Ado about Practically Nothing
+### CHAPTER 4: Much Ado about Practically Nothing
 Sometimes the big ado is made about a difference that is mathematically real and demonstrable but so tiny as to have no importance. This is in defiance of the fine old saying that a difference is a difference only if it makes a difference.
 
-### CHAPTER 7 - The Semiattached Figure
+### CHAPTER 7: The Semiattached Figure
 
 - IF YOU can’t prove what you want to prove, demonstrate something else and pretend that they are the same thing.
 
 - There are many other forms of counting up something and then reporting it as something else. The general method is to pick two things that sound the same but are not.
 
-### CHAPTER 9 - How to Statisticulate
+### CHAPTER 9: How to Statisticulate
 
 - MISINFORMING people by the use of statistical material might be called statistical manipulation; in a word (though not a very good one), `statisticulation`.
 
