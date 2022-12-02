@@ -40,6 +40,12 @@ Found it as a recommendation when I searched up about other poetry books
 ## Who Should Read It?
 Whoever has an interest in Poetry and Feminism 
 
+## How I Discovered It
+- Found it as a recommendation when I searched up about other poetry books
+
+## Who Should Read It?
+- Whoever has an interest in Poetry and Feminism 
+
 
 ## Top Quotes
 > it isn’t what we left behind 
