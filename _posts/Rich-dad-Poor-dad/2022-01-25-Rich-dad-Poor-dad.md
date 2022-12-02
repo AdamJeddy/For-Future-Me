@@ -8,30 +8,19 @@ toc: true
 comment: true
 ---
 
-Author
-:  Robert T. Kiyosaki
-
-Year of release
-: 1997
-
-Genre
-: Business, Economics, Personal Finance
-
-Pages
-: 336
-
-Average WPM
-: 276
-
-Date Started - Finished
-: 10-Jan-2022 to 23-Jan-2022
-
-Time took
-: 3.3 hours
+|                       |        |
+| :---------------------- | :------- |
+| Author:                | Robert T. Kiyosaki        |
+| Year of release:       | 1997        |
+| Genre:                 | Business, Economics, Personal Finance        |
+| Pages:                 | 336        |
+| Average WPM:           | 276        |
+| Date Started/Finished: | 10-Jan-2022 to 23-Jan-2022  |
+| Time took:             | 3.3 Hours |
 
 ---
 ## About the book
-## What I Liked About It and What I didn't
+### What I Liked About It and What I didn't
 - What I liked about the book
 	- Gives a good overview on personal finances and why its important
 	- Gives good tips on the same topic and how you can achieve it 
@@ -39,18 +28,18 @@ Time took
 	- A few of the tips given aren't applicable to normal people, it is targeted to the wealthy which is pretty ironic and kind of gives into the idea of rich getting richer but it is what it is I guess
 	- Really overrated
 
-## How I Discovered It
+### How I Discovered It
 - My Dad told me about it
 
-## Who Should Read It?
+### Who Should Read It?
 - Anyone who wants to get into financial literacy and personal finance
 
-## Actionable Takeaways
+### Actionable Takeaways
 - I see working / career in a very different perspective
 - It showed me the use and importance of money and how it should & shouldn't be used
 
 
-## Top Quotes
+### Top Quotes
 > “I don’t work for money!” were words he would repeat over and over. “Money works for me!”  
 
 > Opportunities come and go. Being able to know when to make quick decisions is an important skill.

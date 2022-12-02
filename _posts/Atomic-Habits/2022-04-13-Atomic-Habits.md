@@ -22,22 +22,22 @@ comment: true
 ### What I Like About It
 It was very well written
 
-## How I Discovered It
+### How I Discovered It
 - Found it online through recommendations
 - A few YT videos 
 	- Ali Abdaal's Book club video
 	- Ankur Warikoo
 
-## Who Should Read It?
+### Who Should Read It?
 - People who want to positively change their life
 - People who want to build better habits or get rid of bad ones
 - Look at habit forming from a different perspective
 
-## How my life has changed as a result of reading the book.
+### How my life has changed as a result of reading the book.
 - Started building better habits
 - Staying consistent with the current habits
 
-## Top Quotes
+### Top Quotes
 > Small habits don’t add up. They compound. That’s the power of atomic habits. Tiny changes. Remarkable results.
 
 > Your knowledge is a lagging measure of your learning habits.
@@ -69,7 +69,6 @@ It was very well written
 > Really successful people feel the same lack of motivation as everyone else. The difference is that they still find a way to show up despite the feelings of boredom
 
 > The greatest threat to success is not failure but boredom
-
 
 
 ## Summary + Notes
@@ -291,5 +290,4 @@ Make your bad habits more difficult by creating what psychologists call a `commi
 - Aristotle noted, 
 > "Youth is easily deceived because it is quick to hope." Perhaps this can be revised to "Youth is easily deceived because it only hopes."
 
-<<<<<<< HEAD
 [^1]: [The Diderot Effect: Why We Want Things We Don’t Need (jamesclear.com)](https://jamesclear.com/diderot-effect)

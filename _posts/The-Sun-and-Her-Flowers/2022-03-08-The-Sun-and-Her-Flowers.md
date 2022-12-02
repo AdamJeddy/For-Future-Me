@@ -7,47 +7,28 @@ tags: [Reviews, Summary, Book, Poetry, Feminism]
 toc: true
 comment: true
 ---
-
-Author
-: Rupi Kaur
-
-Year of release
-: 2017
-
-Genre
-: Poetry, Feminism 
-
-Pages
-: 256
-
-Average WPM
-: 120 
-
-Date Started/Finished
-: 8-Mar-2022
-
-Time took
-: 2.14 Hours
+|                       |        |
+| :---------------------- | :------- |
+| Author:                |  Rupi Kaur       |
+| Year of release:       |  2017       |
+| Genre:                 |  Poetry , Feminism        |
+| Pages:                 | 256        |
+| Average WPM:           | 120        |
+| Date Started/Finished: | 8 March 2022  |
+| Time took:             | 2.14 Hours |
 
 ---
 ## About the book
-## What I Liked About It
+### What I Liked About It
 The chapter names
 
-## How I Discovered It
+### How I Discovered It
 Found it as a recommendation when I searched up about other poetry books
 
-## Who Should Read It?
-Whoever has an interest in Poetry and Feminism 
+### Who Should Read It?
+Whoever has an interest in Poetry and Feminism
 
-## How I Discovered It
-- Found it as a recommendation when I searched up about other poetry books
-
-## Who Should Read It?
-- Whoever has an interest in Poetry and Feminism 
-
-
-## Top Quotes
+### Top Quotes
 > it isn’t what we left behind 
 that breaks me 
 it’s what we could’ve built
