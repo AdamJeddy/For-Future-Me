@@ -7,30 +7,22 @@ tags: [Reviews, Summary, Book, Self-Help, Relationships, Lifestyle]
 toc: true
 comment: true
 ---
-
-Author
-: Mark Manson
-
-Year of release
-: 2016
-
-Genre
-: Self-Help, Relationships, Lifestyle
-
-Pages
-: 224
-
-Average WPM
-: 224 
-
-Date Started - Finished
-: 26-Jan-2022 - 27-Jan-2022
-
-Time took
-: 3.34 Hours
+The key to a good life is not caring about more; it's caring about less, caring about only what is true and immediate and important.
 
 ---
+
 ## About the book
+
+|                       |        |
+| :---------------------- | :------- |
+| Author:                | Mark Manson        |
+| Year of release:       | 2016        |
+| Genre:                 | Self-Help, Relationships, Lifestyle         |
+| Pages:                 | 224        |
+| Average WPM:           | 224        |
+| Date Started/Finished: | 26-27 Jan-2022  |
+| Time took:             | 3.34 Hours |
+
 ## What I Liked About It and What I didn't
 - What I liked
 	- Gives a carefree/laidback take on life

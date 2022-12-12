@@ -7,6 +7,17 @@ tags: [Reviews, Summary, Book, Self-Help, Leadership, Health, Education, Philoso
 toc: true
 comment: true
 ---
+Atomic habits is a concept that emphasizes the importance of small, consistent changes in our daily lives. 
+
+The idea is that by focusing on building and maintaining good habits, we can gradually improve ourselves and our lives in meaningful ways. 
+
+The concept is based on the idea that a single atom, though small and seemingly insignificant, is the building block of all matter, and in the same way, small habits can be the building blocks of significant changes in our lives. 
+
+Consistency is key to implementing atomic habits and making progress towards our goals.
+
+---
+## About the book
+
 |                       |        |
 | :----------------------| :-------|
 | Author:                | James Clear        |
@@ -17,8 +28,6 @@ comment: true
 | Date Started/Finished: | 29-March-2022 to 13-April-2022  |
 | Time took:             | 2.64 Hours |
 
----
-## About the book
 ### What I Like About It
 It was very well written
 

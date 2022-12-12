@@ -7,30 +7,23 @@ tags: [Reviews, Summary, Book, MagicalRealism, Fantasy, Fiction, TimeTravel]
 toc: true
 comment: true
 ---
+What would you change if you could go back in time?
 
-Author
-: Kawaguchi Toshikazu
-
-Year of release
-: 2015
-
-Genre
-: MagicalRealism, Fantasy, Fiction, TimeTravel
-
-Pages
-: 211
-
-Average WPM
-: 116 
-
-Date Started - Finished
-: 05-Feb-2022 - 09-Feb-2022
-
-Time took
-: 4.18 Hours
+"Before the coffee gets cold" is a novel about a man who discovers a mysterious cafe where time is frozen and he has the chance to revisit his past.
 
 ---
 ## About the book
+
+|                       |        |
+| :---------------------- | :------- |
+| Author:                | Kawaguchi Toshikazu        |
+| Year of release:       | 2015        |
+| Genre:                 | MagicalRealism, Fantasy, Fiction, TimeTravel        |
+| Pages:                 | 211        |
+| Average WPM:           | 116        |
+| Date Started/Finished: | 5-Feb to 9-Feb-2022  |
+| Time took:             | 4.18 Hours |
+
 ## What I Liked About It and What I didn't
 - What I liked about the book
 	- Takes a different approach to the idea of Time Travel
