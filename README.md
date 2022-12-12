@@ -1,3 +1,4 @@
+![Repo Banner](assets/img/Banner_resize.png)
 # For Future Me - Archive of everything I write 
 
 -- TO BE COMPLETED--
