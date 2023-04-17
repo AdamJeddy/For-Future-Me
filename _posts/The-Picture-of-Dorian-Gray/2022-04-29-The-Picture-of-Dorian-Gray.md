@@ -131,7 +131,7 @@ Only 2 kinds of people who are really fascinating
 
 - I remember your saying once that there is a fatality about good resolutions – that they are always made too late
 
-- One should absorb the colour of life, but one should never remember its details. Details are always vulgar.’
+- One should absorb the colour of life, but one should never remember its details. Details are always vulgar.
 
 #### Chapter IX
 - To become the spectator of one’s own life, as Harry says, is to escape the suffering of life
@@ -175,6 +175,6 @@ Only 2 kinds of people who are really fascinating
 - The books that the world calls immoral are books that show the world its own shame. That is all.
 
 #### Chapter XX
-- As it had killed the painter, so it would kill the painter’s work, and all that that meant. It would kill the past, and when that was dead he would be free. It would kill this monstrous soul-life, and without its hideous warnings, he would be at peace. He seized the thing, and stabbed the picture with it.
+As it had killed the painter, so it would kill the painter’s work, and all that that meant. It would kill the past, and when that was dead he would be free. It would kill this monstrous soul-life, and without its hideous warnings, he would be at peace. He seized the thing, and stabbed the picture with it.
 
 - When they entered, they found hanging upon the wall a splendid portrait of their master as they had last seen him, in all the wonder of his exquisite youth and beauty. Lying on the floor was a dead man, in evening dress, with a knife in his heart. He was withered, wrinkled, and loathsome of visage. It was not till they had examined the rings that they recognized who it was.
