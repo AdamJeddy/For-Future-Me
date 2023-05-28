@@ -8,6 +8,8 @@ toc: true
 comment: true
 ---
 
+"Nowadays people know the price of everything, and the value of nothing." These profound words penned by Oscar Wilde effortlessly encapsulate the timeless allure of his magnum opus, "The Picture of Dorian Gray." A literary masterpiece that challenges societal norms and delves into the depths of human nature, this novel remains as relevant today as it was when first published in 1890. As we delve into the dark depths of Dorian Gray's story, we are confronted with profound questions about the true value of life and the pursuit of self-development.
+
 ## About the book
 
 |                    |        |
@@ -53,7 +55,7 @@ Whoever is self obsessed? xD
 
 > Whenever a man does a thoroughly stupid thing, it is always from the noblest motives.
 
-> The reason we all like to think so well of others is that we are all afraid for ourselves. ==The basis of optimism is sheer terror.==
+> The reason we all like to think so well of others is that we are all afraid for ourselves. The basis of optimism is sheer terror.
 
 > I didn’t say I liked it, Harry. I said it fascinated me. There is a great difference.
 
