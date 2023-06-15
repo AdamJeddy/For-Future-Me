@@ -4,10 +4,10 @@
   type: github
   icon: 'fab fa-github'
   url: "https://github.com/AdamJeddy"
--
-  type: twitter
-  icon: 'fab fa-twitter'
-  url: "https://twitter.com/A7damn"
+#-
+#  type: twitter
+#  icon: 'fab fa-twitter'
+#  url: ""
 -
   type: linkedin
   icon: 'fab fa-linkedin'
