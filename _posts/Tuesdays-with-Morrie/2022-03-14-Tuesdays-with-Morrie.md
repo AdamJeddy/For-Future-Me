@@ -2,8 +2,8 @@
 layout: post
 title:  "📚 Tuesdays with Morrie"
 created: ["31-March-2022 21:56"]
-categories: [Book, Summarized]
-tags: [Reviews, Summary, Book, ]
+categories: [Summarized, Book]
+tags: [Reviews, Summary, Book]
 toc: true
 comment: true
 ---

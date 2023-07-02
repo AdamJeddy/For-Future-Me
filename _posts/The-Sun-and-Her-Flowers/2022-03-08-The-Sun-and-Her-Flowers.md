@@ -2,7 +2,7 @@
 layout: post
 title:  "📚 The Sun and Her Flowers"
 created: ["25-March-2022 21:42"]
-categories: [Book, Summarized]
+categories: [Summarized, Book]
 tags: [Reviews, Summary, Book, Poetry, Feminism]
 toc: true
 comment: true

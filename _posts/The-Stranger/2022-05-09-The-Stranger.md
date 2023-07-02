@@ -2,7 +2,7 @@
 layout: post
 title:  "📚 The Stranger"
 created: ["09-May-2022 22:31"]
-categories: [Book, Summarized]
+categories: [Summarized, Book]
 tags: [Reviews, Summary, Book, Classics, Fiction, Literature, Philosophy, Novels]
 toc: true
 comment: true

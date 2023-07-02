@@ -2,8 +2,8 @@
 layout: post
 title:  "📸 My Lightroom Presets"
 created: ["24-December-2022 21:40"]
-categories: [Lightroom, Edit, Resource]
-tags: [Lightroom, Edit, Resource]
+categories: [Resource, Lightroom, Edit]
+tags: [Resource, Lightroom, Edit]
 toc: true
 comment: true
 ---

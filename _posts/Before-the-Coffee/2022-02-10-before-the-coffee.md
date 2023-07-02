@@ -2,7 +2,7 @@
 layout: post
 title:  "📚 Before the coffee gets cold"
 created: ["10-February-2022 21:46"]
-categories: [Book, Summarized]
+categories: [Summarized, Book]
 tags: [Reviews, Summary, Book, MagicalRealism, Fantasy, Fiction, TimeTravel]
 toc: true
 comment: true

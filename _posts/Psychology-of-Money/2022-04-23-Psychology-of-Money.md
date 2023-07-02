@@ -2,7 +2,7 @@
 layout: post
 title:  "📚 Psychology of Money"
 created: ["21-April-2022 09:07"]
-categories: [Book, Summarized]
+categories: [Summarized, Book]
 tags: [Reviews, Summary, Book, Nonfiction, Psychology, Business, Economics, Finance, PersonalFinance, Self-Help]
 toc: true
 comment: true
