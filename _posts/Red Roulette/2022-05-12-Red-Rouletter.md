@@ -33,7 +33,7 @@ Life was a game of red roulette, with the odds stacked against those who dared t
 They kept bringing up new people every chapter so it got hard to keep track (maybe cuz they had Chinese names?)
 
 ### How I Discovered It
-Ankur Warikoo's video
+Ankur Warikoo's video - [17 Books to Read in 2022](https://youtu.be/pJYFetCibXI?t=766)
 
 ### Who Should Read It?
 Someone who is interested in Politics or wants to learn more about China and how things work there in terms of power
@@ -49,7 +49,7 @@ Someone who is interested in Politics or wants to learn more about China and how
 
 > He taught me to swim in typical Chinese fashion: he tossed me into the pool. I struggled to the surface and gulped down a lot of water.
 
-> Two-thirds of the people on China’s one hundred wealthiest list would be replaced every year due to poor business decisions, criminality, and/or politically motivated prosecutions
+> 2/3 of the people on China’s 100 wealthiest list would be replaced every year due to poor business decisions, criminality, and/or politically motivated prosecutions
 
 > In China, officials never reveal their ambitions in public. Biding one’s time is a key tenant of Sun Tzu’s Art of War.
 
