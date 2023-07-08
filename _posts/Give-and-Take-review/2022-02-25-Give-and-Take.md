@@ -3,51 +3,42 @@ layout: post
 title:  "📚 Give and Take: A Revolutionary Approach to Success"
 created: ["25-February-2022 21:46"]
 categories: [Summarized, Book]
-tags: [Reviews, Summary, Book, Business, Self-help, Lifestyle, Psychology]
+tags: [Reviews, Summary, Book, Business, Self-Help, Lifestyle, Psychology]
 toc: true
 comment: true
 ---
-Author
-: Adam Grant
 
-Year of release
-: 2013
-
-Genre
-: Self-Help, Relationships, Lifestyle, Business, Psychology
-
-Pages
-: 204
-
-Average WPM
-: 389 
-
-Date Started - Finished
-: 13-Feb-2022 to 24-Feb-2022 
-
-Time took
-: 4.5 Hours
-
----
 ## About the book
-## What I Liked About It
-- Gives solid advice about work environment
-- Clear idea set at the beginning of the book, he keeps it consistent
-- Structured well
 
-## How I Discovered It
--  Recommended by Ankur Warikoo in one of his videos[^1].
+|                       |        |
+| :---------------------- | :------- |
+| Author:                | Adam Grant        |
+| Year of release:       | 2013        |
+| Genre:                 | Self-Help, Relationships, Lifestyle, Business, Psychology        |
+| Pages:                 | 204        |
+| Average WPM:           | 389        |
+| Date Started/Finished: | 13-February-2022 to 24-February-2022    |
+| Time took:             | 4.5 Hours |
 
-## Who Should Read It?
+### Impressions
+What I Liked About It
+: Gives solid advice about work environment
+: Clear idea set at the beginning of the book, he keeps it consistent
+: Structured well
+
+### How I Discovered It
+Recommended by Ankur Warikoo in one of his videos[^1].
+
+### Who Should Read It?
 - University students
 - Fresh graduates
 - Anyone who want's to get better in a professional environment  
 
-## Actionable Takeaways
+### Actionable Takeaways
 - Basic takeaway here is don't be an asshole because you will lose in the end
 - Learned to be a giver without being a doormat
 
-## Top Quotes
+### Top Quotes
 > We often stereotype givers as chumps and doormats, they turn out to be surprisingly successful
 
 > Givers succeed in a way that creates a ripple effect, enhancing the success of people around them
