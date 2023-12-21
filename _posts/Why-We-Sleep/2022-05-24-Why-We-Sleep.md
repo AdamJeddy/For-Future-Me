@@ -10,6 +10,8 @@ comment: true
 lpiq: 
 ---
 
+<!-- There he was. Kim Dokja -->
+
 🌙 Unlock the secrets of sleep in "Why We Sleep" and discover the fascinating science behind sleep. From the truth about caffeine to the mesmerizing world of dreams, delve into the impact of sleep on memory, creativity, and well-being. Unravel the mysteries of circadian rhythms, jet lag, and melatonin, and embrace the quest for a healthier, more vibrant life. 💤✨
 
 ## About the book
@@ -349,3 +351,10 @@ Twelve Tips for Healthy Sleep
 10. Dark bedroom, cool bedroom, gadget-free bedroom. Get rid of anything in your bedroom that might distract you from sleep, such as noises, bright lights, an uncomfortable bed, or warm temperatures.
 11. Have the right sunlight exposure.
 12. Don’t lie in bed awake. If you find yourself still awake after staying in bed for more than twenty minutes or if you are starting to feel anxious or worried, get up and do some relaxing activity until you feel sleepy.
+
+<!-- Prologue – There are three ways to survive in a ruined world . -->
+<!-- [There are three ways to survive in a ruined world . Now, I have forgotten a few, but one thing is certain . The fact that you who are reading this now will survive . -Three ways to survive in a ruined world] -->
+<!-- A web novel platform filled the screen of my old smartphone . I scrolled down and then up again . How many times have I been doing this?  -->
+<!-- “Really? This is the end?” -->
+<!-- I looked again, and the ‘complete’ was unmistakable . -->
+<!-- The story was over . -->
