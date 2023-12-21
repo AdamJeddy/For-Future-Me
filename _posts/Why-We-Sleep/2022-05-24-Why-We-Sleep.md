@@ -10,6 +10,8 @@ comment: true
 lpiq: 
 ---
 
+🌙 Unlock the secrets of sleep in "Why We Sleep" and discover the fascinating science behind sleep. From the truth about caffeine to the mesmerizing world of dreams, delve into the impact of sleep on memory, creativity, and well-being. Unravel the mysteries of circadian rhythms, jet lag, and melatonin, and embrace the quest for a healthier, more vibrant life. 💤✨
+
 ## About the book
 
 |                       |                                                                                                       |
@@ -75,6 +77,10 @@ Actionable Takeaways
 
 ### 1: To Sleep . . .
 - Routinely sleeping less than 6-7 hours a night demolishes your immune system, more than doubling your risk of cancer.
+
+> Prioritize your sleep for a healthier immune system and reduced risk of cancer!
+{: .prompt-tip }
+
 - Inadequate sleep—even moderate reductions for just 1 week—disrupts blood sugar levels so profoundly that you would be classified as pre-diabetic.
 - Perhaps you have also noticed a desire to eat more when you’re tired? This is no coincidence. Too little sleep swells concentrations of a hormone that makes you feel hungry while suppressing a companion hormone that otherwise signals food satisfaction. Despite being full, you still want to eat more.
 - Worse, should you attempt to diet but don’t get enough sleep while doing so, it is futile, since `most of the weight you lose will come from lean body mass, not fat`.
@@ -90,6 +96,10 @@ Actionable Takeaways
 - The average duration of a human adult’s endogenous circadian clock runs around 24 hours and 15 minutes in length.
 	- Not everyone’s circadian timing is the same
 - Unlike morning larks, night owls are frequently incapable of falling asleep early at night, `no matter how hard they try` and when they are forced to wake up too early, their prefrontal cortex remains in a disabled, “offline” state.
+
+> Embrace your natural chronotype and align your sleep schedule accordingly for better rest!
+{: .prompt-tip }
+
 - An adult’s owlness or larkness, also known as their `chronotype`, is strongly determined by genetics. 
 	- If you are a night owl, it’s likely that one (or both) of your parents is a night owl.
 - Night owls are not owls by choice. They are bound to a delayed schedule by unavoidable DNA hardwiring. It is not their conscious fault, but rather their genetic fate.
@@ -153,12 +163,19 @@ Actionable Takeaways
 - Practice does not make perfect. It is practice, followed by a night of sleep, that leads to perfection.
 - The 100-meter sprint superstar Usain Bolt has, on many occasions, taken naps in the hours before breaking the world record, and before Olympic finals in which he won gold.
 
+> Ever wondered how sleep affects memory? Dreams play a crucial role in memory consolidation.
+{: .prompt-tip }
+
 
 ### 7: Too Extreme for the Guinness Book of World Records: Sleep Deprivation and the Brain
 - Risks associated with sleep deprivation are considered to be far, far higher. Unacceptably high, in fact, based on the evidence.
 - With chronic sleep restriction over months or years, an individual will actually acclimate to their impaired performance, lower alertness, and reduced energy levels. That low-level exhaustion becomes their accepted norm, or baseline.
 - 60 years of scientific research prevent me from accepting anyone who tells me that he or she can “get by on just four or five hours of sleep a night just fine.”
 - After 30 years of intensive research, we can now answer many of the questions posed earlier. The recycle rate of a human being is around 16 hours. After 16 hours of being awake, the brain begins to fail. Humans need more than 7 hours of sleep each night to maintain cognitive performance. After 10 days of just 7 hours of sleep, the brain is as dysfunctional as it would be after going without sleep for 24 hours. 3 full nights of recovery sleep (i.e., more nights than a weekend) are insufficient to restore performance back to normal levels after a week of short sleeping. Finally, the human mind cannot accurately sense how sleep-deprived it is when sleep-deprived.
+
+> Beware of chronic sleep deprivation! Prioritize at least 7 hours of sleep for optimal cognitive function.
+{: .prompt-danger }
+
 - Power naps may momentarily increase basic concentration under conditions of sleep deprivation, as can caffeine up to a certain dose.
 - (Context: study done on Bipolar patients) I find it to be an ethically difficult experiment to appreciate, but the scientists had importantly demonstrated that a lack of sleep is a causal trigger of a psychiatric episode of mania or depression.
 - Depression is not, as you may think, just about the excess presence of negative feelings. Major depression has as much to do with absence of positive emotions, a feature described as anhedonia: the inability to gain pleasure from normally pleasurable experiences, such as food, socializing, or sex.
@@ -168,11 +185,17 @@ Actionable Takeaways
 - Wakefulness is low-level brain damage, while sleep is neurological sanitation.
 - Parenthetically, and unscientifically, I have always found it curious that Margaret Thatcher and Ronald Reagan—2 heads of state that were very vocal, if not proud, about sleeping only 4 to 5 hours a night—both went on to develop the ruthless disease.
 
+> Warning: Chronic sleep deprivation may lead to long-term cognitive dysfunction. Prioritize your sleep for a healthier mind!
+{: .prompt-warning }
+
 
 ### 8: Cancer, Heart Attacks, and a Shorter Life: Sleep Deprivation and the Body
 - I was once fond of saying, “Sleep is the third pillar of good health, alongside diet and exercise.” I have changed my tune. `Sleep is more than a pillar; it is the foundation on which the other two health bastions sit`.
 - The less you sleep, the more you are likely to eat.
-- Sleeping less than 7 or 8 hours a night will increase your probability of gaining weight, being overweight, or being obese, and significantly increases your likelihood of developing type 2 diabetes.
+
+> Sleeping less than 7 or 8 hours a night will increase your probability of gaining weight, being overweight, or being obese, and significantly increases your likelihood of developing type 2 diabetes.
+{: .prompt-danger}
+
 - Inadequate sleep is the perfect recipe for obesity: greater calorie intake, lower calorie expenditure.
 - Based on evidence gathered over the past three decades, the epidemic of insufficient sleep is very likely a key contributor to the epidemic of obesity.
 - 2 individuals of the same chronological age would not appear to be of the same biological age on the basis of their telomere health if one was routinely sleeping 5 hours a night while the other was sleeping 7 hours a night. The latter would appear “younger,” while the former would artificially have aged far beyond their calendar years.
@@ -240,6 +263,10 @@ There are some individuals who can not only become aware that they are dreaming,
 5. A legacy of punching time cards
    
 Despite being just 1-2% of the strength of daylight, this ambient level of incandescent home lighting can have 50% of the melatonin-suppressing influence within the brain.
+
+> Create a sleep-friendly environment! Minimize ambient light for better melatonin production and sleep quality.
+{: .prompt-info }
+
 - Blue LED lights offer considerable advantages over incandescent lamps in terms of lower energy demands and, for the lights themselves, longer life spans. But they may be inadvertently shortening our own.
 - Evening blue LED light has twice the harmful impact on nighttime melatonin suppression than the warm, yellow light from old incandescent bulbs, even when their lux intensities are matched.
 
@@ -275,8 +302,12 @@ Wendell Berry, VII modern society has taken one of nature’s perfect solutions 
 
 
 ### 15: Sleep and Society: What Medicine and Education Are Doing Wrong; What Google and NASA Are Doing Right
-- Taken as a whole, 1 out of every 2 adults across all developed countries (approximately 800 million people) will not get the necessary sleep they need this coming week.
-- **The brain can never recover all the sleep it has been deprived of**. We cannot accumulate a debt without penalty, nor can we repay that sleep debt at a later time.
+Taken as a whole, 1 out of every 2 adults across all developed countries (approximately 800 million people) will not get the necessary sleep they need this coming week.
+
+> Sleep matters in society! Explore the societal impact of insufficient sleep and its consequences.
+{: .prompt-info }
+
+**The brain can never recover all the sleep it has been deprived of**. We cannot accumulate a debt without penalty, nor can we repay that sleep debt at a later time.
 
 I offer 4 diverse yet clear examples of how insufficient sleep is impacting the fabric of human society: 
 - sleep in the workplace, 
