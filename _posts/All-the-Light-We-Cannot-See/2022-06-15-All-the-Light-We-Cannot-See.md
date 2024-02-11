@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "📚 All the Light We Cannot See"
-created: ["6-July-2022 21:33"]
+created: ["15-June-2022 21:33"]
 categories: [Summarized, Book]
 tags: [Reviews, Summary, Book, Fiction, Historical, War, Adult, Novel ]
 toc: true
