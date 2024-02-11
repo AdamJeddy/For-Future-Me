@@ -23,8 +23,6 @@ A book that weaves two stories during a war. Enjoy how it comes together, but wa
 | Date Started/Finished: | 26-May-22 to 15-June-22  |
 | Time took:             | 3.32 Hours |
 
----
-## About the book
 ### What I Liked About It and What I didn't
 What I liked
 - Love how the 2 independent stories come together in the end
