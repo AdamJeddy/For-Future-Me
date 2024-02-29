@@ -49,27 +49,23 @@ What all come to understand is that there is no such thing as a neutral exchange
 
 > “You can make more friends in two months by becoming more interested in other people than you can in two years by trying to get people interested in you.”
 
-<br/>
 You are 1 in 7 billion—your progress is not meant for you alone. The sooner you allow this truth to shape your communication decisions, the sooner you will see that the quickest path to personal or professional growth is not in hyping yourself to others but in sharing yourself with them.
 
-The two highest levels of influence are achieved when, People follow you because of:
-1. What you’ve done for them and
-2. Who you are.
+- The two highest levels of influence are achieved when, People follow you because of:
+  1. What you’ve done for them and
+  2. Who you are.
 
-<br/>
 Highest levels of influence are reached when **generosity** and **trustworthiness** surround your behavior. 
 
-<br/>
-Consider a few of his foundational principles
-- don’t criticize, condemn, or complain; 
-- talk about others’ interests; 
-- if you’re wrong, admit it; 
-- let others save face.
+- Consider a few of his foundational principles
+  - don’t criticize, condemn, or complain; 
+  - talk about others’ interests; 
+  - if you’re wrong, admit it; 
+  - let others save face.
 
-<br/>
-When we learn a person’s behavior has an ulterior motive, he has less influence with us than someone we’ve met only once.
+- When we learn a person’s behavior has an ulterior motive, he has less influence with us than someone we’ve met only once.
 
-The relationship is doomed unless he confesses and makes a change. Even then, a residue of skepticism will remain.
+- The relationship is doomed unless he confesses and makes a change. Even then, a residue of skepticism will remain.
 
 When you put the medium before the meaning, your message is in danger of becoming, in the words of Shakespeare’s Macbeth, 
 > “a tale, told by an idiot, full of sound and fury, signifying nothing.”
@@ -83,13 +79,12 @@ We ignore the niceties of common courtesy; we say, *“I can’t possibly apply 
 
 The difference, as they say, is in the details—the often subtle details of your daily interactions.
 
+<br/>
 
-## **<u>Part 1: Essentials of Engagement</u>**
+## **<b>Part 1: Essentials of Engagement</b>**
 ---
 ### Chapter 1: Bury Your Boomerangs
 Ask both Adolf Hitler and Martin Luther King Jr. for a basic definition of influence and you might get similar answers.
-
-Lincoln brushed such details aside and sent his letter, he certainly would have won the battle of words, but he would have suffered loss in the war of influence.
 
 > When we attempt to use criticism to win an argument, to make a point, or to incite change, we are taking two steps backward.
 {: .prompt-danger }
@@ -99,8 +94,8 @@ Focus on improving yourself instead of others
 - Make your messages meaningful by removing your agenda.
 - Calm yourself before communicating to another.
 
-While it is difficult at times to downplay our right to speak freely, a quick scan through history will remind you that the greatest influencers are those who held their tongue and swallowed their pride when the tide of negative emotion was arising, and instead let brevity, humility, and wisdom say far more than a critical tirade ever could.
-
+> While it is difficult at times to downplay our right to speak freely, a quick scan through history will remind you that the greatest influencers are those who held their tongue and swallowed their pride when the tide of negative emotion was arising, and instead let brevity, humility, and wisdom say far more than a critical tirade ever could.
+{: .prompt-tip }
 
 ### Chapter 2: Affirm What’s Good
 > “When we treat man as he is, we make him worse than he is; when we treat him as if he already were what he potentially could be, we make him what he should be.”
@@ -115,19 +110,19 @@ We are all united by one single desire: to be valued by another. Whether this me
 	- Influencing others is not a matter of outsmarting them. It is a matter of discerning what they truly want and offering it to them in a mutually beneficial package.
 2. Influence requires a gentle hand.
 
+<br/>
 
-## **<u>Part 2: 6 Ways to Make a Lasting Impression</u>**
+## **<b>Part 2: 6 Ways to Make a Lasting Impression</b>**
 ---
 ### Chapter 1: Take Interest in Others’ Interests
 If we are not mindful, our self-defense can turn into self-detention, keeping us from meaningful interaction and in some cases cutting us off from interpersonal progress altogether.
 
-> “It is the individual who is not interested in his fellow men,” wrote Alfred Adler, the famous Austrian psychotherapist, “who has the greatest difficulties in life and provides the greatest injury to others. It is from such individuals that all human failures spring.”
+> “It is the individual who is not interested in his fellow men,” “who has the greatest difficulties in life and provides the greatest injury to others. It is from such individuals that all human failures spring.”
+> \- Alfred Adler, the famous Austrian psychotherapist
 
-- That’s quite an audacious statement. But it is a statement borne out in fact.
+That’s quite an audacious statement. But it is a statement borne out in fact.
 
-- The ancient maxim is still true: “For whoever exalts himself will be humbled, and whoever humbles himself will be exalted.” Our effectiveness with others is ultimately a matter of motive and merchandise.
-
-- The irony of this principle—take interest in others’ interests—is that its effectiveness is predicated on others thinking of themselves. Its effectiveness essentially requires others being self-interested.
+The ancient maxim is still true: “For whoever exalts himself will be humbled, and whoever humbles himself will be exalted.” Our effectiveness with others is ultimately a matter of motive and merchandise.
 
 - There are 2 things to say about this.
 	- First, self-interest in its purest form is part of human nature—fight or flight is fact.
@@ -138,36 +133,40 @@ If we are not mindful, our self-defense can turn into self-detention, keeping us
 
 - The opportunities to be known by others and to know others are ultimately two sides of the same coin
 
-- The primary business payoff of remembering people’s names: they remember you. The flipside is an unenviable place to be.
+> The primary business payoff of remembering people’s names: they remember you.
+{: .prompt-tip} 
 
-- We must remember that a person is more interested in his or her own name than in all the other names on earth put together. Remember that name and use it easily, and you have paid a subtle and very effective compliment. But forget it or misspell it, and you have placed yourself at a sharp disadvantage.
+We must remember that a person is more interested in **their own name** than in **all the other names on earth put together**. 
 
+> Remember a name and use it easily, and you have paid a subtle and very effective compliment. But forget it or misspell it, and you have placed yourself at a sharp disadvantage.
+{: .prompt-info}
 
 ### Chapter 4: Listen Longer
-- “He seemed to feel easier after that talk,” the old friend said. Lincoln hadn’t wanted advice. He had wanted a sympathetic, trusted listener to whom he could unburden himself. Ultimately it is what we all seek at one time or another. The question is whether you are discerning enough to be a burden lifter.
-
-- “We’re not saying people are completely isolated,” notes Lynn Smith-Lovin, a Duke University sociologist who helped conduct the study. “They may have 600 friends on Facebook . . . and e-mail 25 people a day, but they are not discussing matters that are personally important.”
+“We’re not saying people are completely isolated,” notes Lynn Smith-Lovin, a Duke University sociologist who helped conduct the study. “They may have 600 friends on Facebook . . . and e-mail 25 people a day, but they are not discussing matters that are personally important.”
 
 
 ### Chapter 5: Discuss What Matters to Them
-- when it comes to mattering to others, you must discuss what matters to them. Assume all else will fall on deaf,
+When it comes to mattering to others, you must discuss what matters to them. Assume all else will fall on deaf,
 
-- an equally great risk is that having intimate friends opens us up to being deeply hurt by those friends. Some people protect themselves from relational pain by having no intimate friends. Others do it by having so many shallow friends that a hurt inflicted by one is diffused by the mass.
+An equally great risk is that having intimate friends opens us up to being deeply hurt by those friends. Some people protect themselves from relational pain by having no intimate friends. Others do it by having so many shallow friends that a hurt inflicted by one is diffused by the mass.
 
-- Perhaps what is most meaningful to you, after all, is being meaningful to others. One thing is certain: In an age when the mass of messages multiplies daily, only a small number really matter. To influence others, make sure yours are among them.
+Perhaps what is most meaningful to you, after all, is being meaningful to others. One thing is certain: In an age when the mass of messages multiplies daily, only a small number really matter. To influence others, make sure yours are among them.
 
 
 ### Chapter 6: Leave Others a Little Better
-- What you must always remember is that what motivates you to win friends is rarely what motivates others to grant you friendship.
+You must always remember that what motivates you to win friends is rarely what motivates others to grant you friendship.
 
-- There are no neutral exchanges. You leave someone either a little better or a little worse.
+> There are no neutral exchanges. You leave someone either a little better or a little worse.
+{: .prompt-warning}
 
-- Don’t do to others what you wouldn’t want them to do to you. Two thousand years ago Jesus put a slightly different spin on it: “Do to others what you would have them do to you.”
+Don’t do to others what you wouldn’t want them to do to you. Two thousand years ago Jesus put a slightly different spin on it: 
+> “Do to others what you would have them do to you.”
 
-- Always leave people a little better, and you might be surprised how big it makes you and how far it takes you.
+Always leave people a little better, and you might be surprised how big it makes you and how far it takes you.
 
+<br/>
 
-## **<u>Part 3: How to Merit and Maintain Others' Trust</u>**
+## **<b>Part 3: How to Merit and Maintain Others' Trust</b>**
 ---
 ### Chapter 1: Avoid Arguments
 - Arguing with another person will rarely get you anywhere; they usually end with each person more firmly convinced of his rightness.
@@ -211,7 +210,7 @@ There is a big difference between engagement and interest. Interest is piqued in
 - While connection is necessary to keep us thriving, competition is necessary to keep us striving.
 
 
-## **<u>Part 4: How to Lead Change Without Resistance or Resentment</u>**
+## **<b>Part 4: How to Lead Change Without Resistance or Resentment</b>**
 ---
 ### Chapter 1: Begin on a Positive Note
 In his classic book Leadership Is an Art, author Max DePree famously asserted, “The first responsibility of a leader is to define reality. The last is to say thank you. In between, the leader is a servant.”
