@@ -169,11 +169,14 @@ Always leave people a little better, and you might be surprised how big it makes
 ## **<b>Part 3: How to Merit and Maintain Others' Trust</b>**
 ---
 ### Chapter 1: Avoid Arguments
-- Arguing with another person will rarely get you anywhere; they usually end with each person more firmly convinced of his rightness.
+Arguing with another person will rarely get you anywhere; they usually end with each person more firmly convinced of his rightness.
 
-- “My mother always said two people can’t fight if one person doesn’t want to,” Lula told a reporter once. And so Lula doesn’t fight, an approach that helped him become the president of Brazil and hold the position for almost ten years.
+“My mother always said two people can’t fight if one person doesn’t want to,” Lula told a reporter once. And so Lula doesn’t fight, an approach that helped him become the president of Brazil and hold the position for almost ten years.
 
-- “All of us know how to get attention,” asserts Jeles, “but few of us know how to get attention and respect at the same time.” Set yourself apart by being one who avoids the arguments that most jump into with both feet.
+> 2 people can’t fight if 1 person doesn’t want to
+{: .prompt-tip}
+
+“All of us know how to get attention,” asserts Jeles, “but few of us know how to get attention and respect at the same time.” Set yourself apart by being one who avoids the arguments that most jump into with both feet.
 
 
 ### Chapter 2: Never Say, “You’re Wrong”
@@ -183,32 +186,37 @@ Always leave people a little better, and you might be surprised how big it makes
 
 - Telling people they are wrong will only earn you enemies. Few people respond logically when they are told they are wrong; most respond emotionally and defensively because you are questioning their judgment.
 
+> Telling people they are wrong will only earn you enemies.
+{: .prompt-danger}
+
 
 ### Chapter 4: Begin in a Friendly Way
 There is a big difference between engagement and interest. Interest is piqued in a number of ways, many of which are less than genial. It often begins and ends on a superficial level because the primary emotions tapped are curiosity, surprise, or disgust. Engagement occurs on a deeper level when a person’s core values are tapped. Common to all core values is the notion of being considered worthy of relationship. When you engage another in a friendly manner, you convey to him he is someone worthy of friendship, someone whom you’d like to call friend. It is for this reason “he who sows courtesy reaps friendship.”
 
 
 ### Chapter 5: Access Affinity
-- Today, there are two kinds of agreement.
-	- The first kind of agreement is the common variety. It is the sort that surrounds two parties holding the same opinion on a particular issue.
-	- This second kind of agreement is based on two parties liking the same thing—or, as we might view it, being similar people. We don’t typically call this sort of harmony an “agreement,” but in the digital age it is best to think of it as such because we are always drawn to those with whom we have something in common.
+Today, there are 2 kinds of agreement.
+  - The first kind of agreement is the common variety. It is the sort that surrounds 2 parties holding the same opinion on a particular issue.
+  - This second kind of agreement is based on 2 parties liking the same thing—or, as we might view it, being similar people. We don’t typically call this sort of harmony an “agreement,” but in the digital age it is best to think of it as such because we are always drawn to those with whom we have something in common.
 
 
 ### Chapter 6: Surrender the Credit
-- What is the worst quality in a leader? Ask the followers and they would tell you it is the quality of taking credit when things go well and dishing out blame when things go wrong.
+What is the worst quality in a leader? Ask the followers and they would tell you it is the quality of taking credit when things go well and dishing out blame when things go wrong.
 
-- It is an interesting paradox that the more you surrender the credit for something you’ve done, the more memorable you become, and the more you actually end up receiving credit.
-
+> Interesting paradox: the more you surrender the credit for something you’ve done, the more memorable you become, and the more you actually end up receiving credit.
+{: .prompt-tip}
 
 ### Chapter 7: Engage with Empathy
-- “Cooperativeness in conversation,” wrote Gerald S. Nirenberg, “is achieved when you show that you consider the other person’s ideas and feelings as important as your own.”
+> “Cooperativeness in conversation, is achieved when you show that you consider the other person’s ideas and feelings as important as your own.”
+> \- Gerald S. Nirenberg 
 
-- Remember, empathy is not a networking tactic to be learned and leveraged; it is a link to immediate affluence in human relations.
+Remember, empathy is not a networking tactic to be learned and leveraged; it is a link to immediate affluence in human relations.
 
 
 ### Chapter 10: Throw Down a Challenge
-- While connection is necessary to keep us thriving, competition is necessary to keep us striving.
+While connection is necessary to keep us thriving, competition is necessary to keep us striving.
 
+<br/>
 
 ## **<b>Part 4: How to Lead Change Without Resistance or Resentment</b>**
 ---
