@@ -7,6 +7,7 @@ tags: [Reviews, Summary, Book, Communication, Self-Help, Nonfiction, Psychology,
 toc: true
 comment: true
 ---
+<!-- Honestly I dont know what I am doing up past 12 pushing changes to my blog... I need to get my life together  -->
 
 A gem I discovered through productivity YouTubers. What captivated me was its emphasis on valuing people and offering practical advice not just for business but also personal life. The timeless message of making more friends by showing genuine interest resonated with me, for those seeking communication and leadership improvement or finding it challenging to connect with people, this book offers actionable takeaways emphasizing the art of connection and staying connected on common ground. It's a three-hour investment that explores essential engagement, lasting impressions, building trust, and leading change with practical wisdom, making it a worthwhile read for personal and professional growth.
 
@@ -221,47 +222,47 @@ While connection is necessary to keep us thriving, competition is necessary to k
 ## **<b>Part 4: How to Lead Change Without Resistance or Resentment</b>**
 ---
 ### Chapter 1: Begin on a Positive Note
-In his classic book Leadership Is an Art, author Max DePree famously asserted, “The first responsibility of a leader is to define reality. The last is to say thank you. In between, the leader is a servant.”
+In his classic book Leadership Is an Art, author Max DePree famously asserted, 
+> “The first responsibility of a leader is to define reality. The last is to say thank you. In between, the leader is a servant.”
 
 
 ### Chapter 2: Acknowledge Your Baggage
-Marshall Goldsmith writes, “No one expects us to be right all the time. But when we’re wrong, they certainly expect us to own up to it. In that sense, being wrong is an opportunity—an opportunity to show what kind of person and leader we are. . . . How well you own up to your mistakes makes a bigger impression than how you revel in your successes.”
+Marshall Goldsmith writes, 
+> “No one expects us to be right all the time. But when we’re wrong, they certainly expect us to own up to it. In that sense, being wrong is an opportunity—an opportunity to show what kind of person and leader we are. . . . How well you own up to your mistakes makes a bigger impression than how you revel in your successes.”
 
 
 ### Chapter 5: Mitigate Fault
-- Charlene Li, in her important book Open Leadership, maps out five actions that leaders can take to instill organizational resilience within their teams:
-	1. Acknowledge that failure happens. Leaders can acknowledge failures quickly when they happen, but they can also discuss with their teams the likelihood of failures occurring.
-	2. Encourage dialogue to foster trust.
-	3. Separate the person from the failure.
-	4. Learn from your mistakes.
-	5. Create a risk-taking and failure system.
+Charlene Li, in her important book Open Leadership, maps out 5 actions that leaders can take to instill organizational resilience within their teams:
+1. Acknowledge that failure happens. Leaders can acknowledge failures quickly when they happen, but they can also discuss with their teams the likelihood of failures occurring.
+2. Encourage dialogue to foster trust.
+3. Separate the person from the failure.
+4. Learn from your mistakes.
+5. Create a risk-taking and failure system.
 
-- Charlene Li’s advice can be transferred to situations when we should help an individual save face to recover from a minor error, oversight, or gaffe.
-	- Acknowledge that a mistake was made, but do it gently. Pretending that nothing happened certainly meets the “forgive” criteria, but it seems a little disingenuous when the error was blatant.  
-	- Recognize and address your own role, even if minor.  
-	- Focus on what was gained.  
-	- When appropriate to do so without making others culpable, address the issue from a broad perspective.
+Charlene Li’s advice can be transferred to situations when we should help an individual save face to recover from a minor error, oversight, or gaffe.
+- Acknowledge that a mistake was made, but do it gently. Pretending that nothing happened certainly meets the “forgive” criteria, but it seems a little disingenuous when the error was blatant.  
+- Recognize and address your own role, even if minor.  
+- Focus on what was gained.  
+- When appropriate to do so without making others culpable, address the issue from a broad perspective.
 
-- If you need to discuss a mistake or gaffe that somebody made, it’s best to do it in person or over the phone. Save your written communication for praise and constructive advice.
+If you need to discuss a mistake or gaffe that somebody made, it’s best to do it in person or over the phone. Save your written communication for praise and constructive advice.
 
 
 ### Chapter 6: Magnify Improvement
-- People are genuinely more motivated by personal and social encouragement than by material rewards.
+People are genuinely more motivated by personal and social encouragement than by material rewards.
 
-- Author and psychologist Jon Carlson defined some essential practices that we can use to create an encouraging environment:
-	1. Make healthy relationships a priority. Respect and positive communication are two key elements of making that happen.
-	2. Practice encouragement daily
-	3. Be inclusive. For instance, include others in your decision making process whenever possible; it shows your faith in their sound judgment.
-	4. Don’t let conflicts fester.
+Author and psychologist Jon Carlson defined some essential practices that we can use to create an encouraging environment:
+1. Make healthy relationships a priority. Respect and positive communication are 2 key elements of making that happen.
+2. Practice encouragement daily
+3. Be inclusive. For instance, include others in your decision making process whenever possible; it shows your faith in their sound judgment.
+4. Don’t let conflicts fester.
 
-
-### Chapter 7: Give Others a Fine Reputation to Live Up To
-Act as though the trait you are trying to influence is already one of the person’s outstanding characteristics.
+(Chapter 7: Give Others a Fine Reputation to Live Up To) Act as though the trait you are trying to influence is already one of the person’s outstanding characteristics.
 
 
 ### Chapter 8: Stay Connected on Common Ground
-- Ask people what they did over the weekend, what they hope to do for their next vacation, or what books they’ve recently read, and you’ll discover something compelling and revealing about their goals, their dreams.
+Ask people what they did over the weekend, what they hope to do for their next vacation, or what books they’ve recently read, and you’ll discover something compelling and revealing about their goals, their dreams.
 
-- Six degrees to Kevin Bacon is an interesting pop culture phenomenon, but it’s actually a fantastic way to think about those you want to influence. When you expand the translation to include common interests, common experiences, common goals, the truth is that we are only one degree away from anyone. To be influential with others, to make them happy to do what it is we would like them to do, we simply have to find that one degree that connects us.
+6 degrees to Kevin Bacon is an interesting pop culture phenomenon, but it’s actually a fantastic way to think about those you want to influence. When you expand the translation to include common interests, common experiences, common goals, the truth is that we are only 1 degree away from anyone. To be influential with others, to make them happy to do what it is we would like them to do, we simply have to find that 1 degree that connects us.
 
-- In the end, the art of winning friends and influencing people in the digital age is summed up in the activity of connecting and staying connected on common ground.
+In the end, the art of winning friends and influencing people in the digital age is summed up in the activity of **connecting and staying connected on common ground**.
