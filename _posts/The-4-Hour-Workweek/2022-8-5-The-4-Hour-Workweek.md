@@ -8,6 +8,8 @@ toc: true
 comment: true
 ---
 
+Ditch the 9-5 grind and learn how to work less but smarter. Through DEAL—Definition, Elimination, Automation, Liberation—Ferriss shows you how to cut the crap, make money in your sleep, and live your dream life. It's all about working smart, automating your income, and living freely. Packed with cool tips and real talk, this book is perfect for anyone ready to shake up their work game and have more fun. Give it a read if you're into doing more with less and living big.
+
 ---
 ## About the book
 
