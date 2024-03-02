@@ -87,9 +87,15 @@ Baba's observation here addresses personal courage and integrity. He worries tha
 Baba’s wisdom serves as a guiding light for Amir’s journey later on in the story.
 
 ### CHAPTER FOUR
-- Never mind any of those things. Because history isn’t easy to overcome. Neither is religion. In the end, I was a Pashtun and he was a Hazara, I was Sunni and he was Shi’a, and nothing was ever going to change that. Nothing.
+> Never mind any of those things. Because history isn’t easy to overcome. Neither is religion. In the end, I was a Pashtun and he was a Hazara, I was Sunni and he was Shi’a, and nothing was ever going to change that. Nothing.
 
-- It appeared that on the same night I had learned about one of writing’s objectives, irony, I would also be introduced to one of its pitfalls: the Plot Hole. Taught by Hassan, of all people. Hassan who couldn’t read and had never written a single word in his entire life. A voice, cold and dark, suddenly whispered in my ear, What does he know, that illiterate Hazara? He’ll never be anything but a cook. How dare he criticize you?
+This talks about the deeply ingrained social and religious divides between the story's main characters, Amir (a Pashtun & Sunni) and Hassan (a Hazara & Shi’a). Despite their close friendship, Amir acknowledges the barriers of ethnic and religious identities that Afghan society imposes on them.
+
+> It appeared that on the same night I had learned about one of writing’s objectives, irony, I would also be introduced to one of its pitfalls: the Plot Hole. Taught by Hassan, of all people. Hassan who couldn’t read and had never written a single word in his entire life. A voice, cold and dark, suddenly whispered in my ear, What does he know, that illiterate Hazara? He’ll never be anything but a cook. How dare he criticize you?
+
+Amir's complex feelings of superiority, insecurity, and guilt towards Hassan is shown here. Despite Hassan's illiteracy, he points out a plot hole in a story Amir has written.
+
+Amir's immediate reaction is a defensive one, probably influenced by societal prejudices that deem Hazaras as inferior. This internal monologue highlights Amir's struggle with his own moral compass and societal conditioning. It also reflects the book's exploration of literacy and knowledge as forms of "power" - Amir is confronted by the irony that Hassan, despite his inability to read or write, can still offer valuable insights into storytelling.
 
 
 ### CHAPTER SIX
