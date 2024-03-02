@@ -10,9 +10,6 @@ comment: true
 
 A story about two friends, Amir and Hassan, and their adventures and challenges. This book takes us to different places and times, showing us the power of friendship, the pain of mistakes, and the importance of saying sorry and making things right.
 
-It teaches us about life and each other. Imagine exploring this story like flying a kite together, sometimes it's easy and fun, and other times it gets tricky, but it's always an adventure.
-
-
 ---
 ## About the book
 
@@ -70,15 +67,24 @@ This line captures the essence of unconditional loyalty and sacrifice. Spoken by
 
 For Amir, this line becomes a haunting reminder of his own failings and the loyalty he could not reciprocate later on in the story.
 
-This is not just a simple line about friendship; it is a pledge of unwavering loyalty and sacrifice. It beautifully captures the essence of Hassan's character and sets the tone for the moral and emotional landscape of `The Kite Runner.` 
+This is not only a simple line about friendship but also is a pledge of loyalty. It captures Hassan's character and sets the tone for the moral and emotional landscape of `The Kite Runner.` 
 
 
 
 ### CHAPTER THREE
-- "When you kill a man, you steal a life," Baba said. "You steal his wife’s right to a husband, rob his children of a father. When you tell a lie, you steal someone’s right to the truth. When you cheat, you steal the right to fairness. Do you see?"
 
-- "And where is he headed?" Baba said. "A boy who won’t stand up for himself becomes a man who can’t stand up to anything."
+> "When you kill a man, you steal a life," Baba said. "You steal his wife’s right to a husband, rob his children of a father. When you tell a lie, you steal someone’s right to the truth. When you cheat, you steal the right to fairness. Do you see?"
 
+
+This quote highlights the extensive impact of one's actions on others. Baba is teaching Amir about the concept of theft being the only true sin, which covers more than just 'physical' theft. It's also an ethical lesson that illustrates how actions such as lying, cheating, and killing are forms of theft because they deprive others of their rights, dignity, and truth. 
+
+This idea sets a moral foundation for the novel, emphasizing the interconnectedness of human actions and the broad repercussions of seemingly personal choices.
+
+> "And where is he headed?" Baba said. "A boy who won’t stand up for himself becomes a man who can’t stand up to anything."
+
+Baba's observation here addresses personal courage and integrity. He worries that a lack of self-defense in his young boy not only reflects a present weakness but also predicts a future of inability to confront or challenge injustices. This comment foreshadows Amir's struggles with guilt stemming from his actions (and inactions) in his youth. It puts across a message about the importance of developing courage and integrity early in life to prepare for moral challenges in adulthood.
+
+Baba’s wisdom serves as a guiding light for Amir’s journey later on in the story.
 
 ### CHAPTER FOUR
 - Never mind any of those things. Because history isn’t easy to overcome. Neither is religion. In the end, I was a Pashtun and he was a Hazara, I was Sunni and he was Shi’a, and nothing was ever going to change that. Nothing.
