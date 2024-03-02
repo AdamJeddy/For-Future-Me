@@ -113,9 +113,13 @@ Amir's immediate reaction is a defensive one, probably influenced by societal pr
 
 
 ### CHAPTER ELEVEN
-- "There are only three real men in this world, Amir," he’d say. He’d count them off on his fingers: America the brash savior, Britain, and Israel. "The rest of them—" he used to wave his hand and make a phht sound "—they’re like gossiping old women."
+> "There are only three real men in this world, Amir," he’d say. He’d count them off on his fingers: America the brash savior, Britain, and Israel. "The rest of them—" he used to wave his hand and make a phht sound "—they’re like gossiping old women."
 
-- In Baba’s view, Israel was an island of "real men" in a sea of Arabs too busy getting fat off their oil to care for their own. "Israel does this, Israel does that," Baba would say in a mock-Arabic accent. "Then do something about it! Take action. You’re Arabs, help the Palestinians, then!"
+> In Baba’s view, Israel was an island of "real men" in a sea of Arabs too busy getting fat off their oil to care for their own. "Israel does this, Israel does that," Baba would say in a mock-Arabic accent. "Then do something about it! Take action. You’re Arabs, help the Palestinians, then!"
+
+Baba's criticism of Arab nations for their inaction, especially regarding the Palestinian issue, reflects his frustration with what he perceives as acceptance and complacency. By saying they are "**too busy getting fat off their oil to care for their own**," he is critiquing these nations for not utilizing their wealth and resources to make meaningful changes or support their neighbors.
+
+His views mirror attitudes in the era in which the story is set, mainly regarding the admiration for Western countries. His opinions on Israel and Arab nations also touch on sensitive geopolitical issues that are still relevant today, including the Israeli-Palestinian conflict and the role of Arab countries in it.
 
 - I tried to get Baba to enroll in ESL classes to improve his broken English. But he scoffed at the idea. "Maybe I’ll spell ‘cat’ and the teacher will give me a glittery little star so I can run home and show it off to you," he’d grumble.
 
@@ -127,6 +131,11 @@ Amir's immediate reaction is a defensive one, probably influenced by societal pr
 
 > "Zendagi migzara," he said. Life goes on.
 
+This line captures a profound and a truth about the human condition in the face of adversity.  It suggests that despite the trials, losses, and changes individuals face, <u>life does not halt</u>.
+
+It also reflects an acceptance of change as a part of life, it implies that while circumstances change the flow of life continues regardless.
+
+And on a deeper level, "**Zendagi migzara**" embodies a sense of hope and the importance of looking forward. It suggests that despite past mistakes, regrets, or losses, there is always a path forward.
 
 ### CHAPTER TWELVE
 - I remembered something Baba had said about Pashtuns once. We may be hardheaded and I know we’re far too proud, but, in the hour of need, believe me that there’s no one you’d rather have at your side than a Pashtun.
@@ -136,14 +145,15 @@ Amir's immediate reaction is a defensive one, probably influenced by societal pr
 - A CREATIVE WRITING TEACHER at San Jose State used to say about clichés: "Avoid them like the plague." Then he’d laugh at his own joke.
 
 - We’re a melancholic people, we Afghans, aren’t we? Often, we wallow too much in ghamkhori and self-pity. We give in to loss, to suffering, accept it as a fact of life, even see it as necessary. Zendagi migzara, we say, life goes on.
+  - Ghamkhori - Self-indulgent attitude about one's own difficulties
 
 
 ### CHAPTER SEVENTEEN
-- "What I’m asking from you is to grant an old man his dying wish," he said gravely. He had gambled with that comment. Played his best card. Or so I thought then. His words hung in limbo between us, but at least he’d known what to say. ***I was still searching for the right words, and I was the writer in the room.***
+"What I’m asking from you is to grant an old man his dying wish," he said gravely. He had gambled with that comment. Played his best card. Or so I thought then. His words hung in limbo between us, but at least he’d known what to say. ***I was still searching for the right words, and I was the writer in the room.***
 
 
 ### CHAPTER EIGHTEEN
-- Here is another cliché my creative writing teacher would have scoffed at; like father, like son. But it was true, wasn’t it? As it turned out, Baba and I were more alike than I’d ever known. We had both betrayed the people who would have given their lives for us. And with that came this realization: that Rahim Khan had summoned me here to atone not just for my sins but for Baba’s too.
+Here is another cliché my creative writing teacher would have scoffed at; like father, like son. But it was true, wasn’t it? As it turned out, Baba and I were more alike than I’d ever known. We had both betrayed the people who would have given their lives for us. And with that came this realization: that Rahim Khan had summoned me here to atone not just for my sins but for Baba’s too.
 
 ### CHAPTER TWENTY
 - ‘How seamless seemed love and then came trouble!’" A smile sprouted on my face. "I know that ghazal. That’s Hafez."
@@ -151,8 +161,11 @@ Amir's immediate reaction is a defensive one, probably influenced by societal pr
 - Baba used to say, "Take two Afghans who’ve never met, put them in a room for ten minutes, and they’ll figure out how they’re related."
 
 ### CHAPTER TWENTY-FOUR
-- I thought of a line I’d read somewhere, or maybe I’d heard someone say it: There are a lot of children in Afghanistan, but little childhood.
+> I thought of a line I’d read somewhere, or maybe I’d heard someone say it: There are a lot of children in Afghanistan, but little childhood.
 
+Afghanistan's history is marked by successive wars, invasions, and internal conflicts that have affected its people's lives. The line talks about how these conditions have particularly stolen childhood from the nation's children, making survival, rather than play or education, their main concern. 
+
+It highlights the universal tragedy of war-torn regions, where the joys and discoveries of youth are usually overshadowed by violence, loss, and displacement.
 
 ### CHAPTER TWENTY-FIVE
 - I looked at the photo. Your father was a man torn between two halves, Rahim Khan had said in his letter. I had been the entitled half, the society-approved, legitimate half, the unwitting embodiment of Baba’s guilt.
