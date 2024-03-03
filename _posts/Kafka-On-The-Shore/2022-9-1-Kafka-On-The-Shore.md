@@ -8,8 +8,8 @@ toc: true
 comment: true
 ---
 
-
-
+ A masterpiece by Haruki Murakami that intertwines magical realism and contemporary literature. Here, I'll share the elements that captivated me, and those that left me puzzled.
+ 
 ---
 ## About the book
 
