@@ -3,7 +3,7 @@ layout: post
 title:  "📚 The 4 Hour Workweek - Expanded And Updated"
 created: ["5-August-2022 16:00"]
 categories: [Summarized, Book]
-tags: [Reviews, Summary, Book, Busines, Nonfiction, Self-Help, Productivity, PersonalDevelopment, Entrepreneurship, Finance ]
+tags: [Reviews, Summary, Book, Busines, Nonfiction, Self-Help, Productivity, Personal Development, Entrepreneurship, Finance ]
 toc: true
 comment: true
 ---
