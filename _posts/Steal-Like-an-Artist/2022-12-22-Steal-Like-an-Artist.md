@@ -8,12 +8,18 @@ toc: true
 comment: true
 ---
  
+A refreshing take on creativity and the artistic process. Through its concise and engaging style, the book demystifies the creative process, encouraging readers to embrace influence and remix ideas in their own work. 
+
+Kleon promotes the idea that all art is derivative and that acknowledging and incorporating influences is a critical step in the creative process. While some readers may find certain perspectives, like the diminished role of technology in creativity, debatable, the book overall serves as an empowering guide for navigating the complexities of creating original work. 
+
+Highlighting the importance of side projects, embracing obscurity, and the power of subtraction, Kleon offers practical advice for anyone looking to inject creativity into their life and work. Whether you're an artist, writer, or creative in any field, "Steal Like an Artist" provides valuable insights into making the most of your creative potential.
+
 
 ---
 ## About the book
 
-| X                      | X       |
-| ---------------------- | ------- |
+|                       |        |
+| :---------------------- | :------- |
 | Author:                | Austin Kleon        |
 | Year of release:       |  2012       |
 | Genre:                 | Nonfiction, Art, Self-Help, Writing, Design, Business, Personal Development, Psychology, Productivity        |
