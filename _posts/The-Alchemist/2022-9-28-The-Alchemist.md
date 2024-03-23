@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📕 The Alchemist"
+title:  "📕 The Alchemist 🔮🐑🌍"
 created: ["28-September-2022 11:30"]
 categories: [Summarized, Book]
 tags: [Reviews, Summary, Book, Fiction, Classics, Fantasy, Philosophy, Novels, Spirituality, Self-Help, Literature, Adventure, Inspirational ]
@@ -30,7 +30,7 @@ Felt the books message was very generic and the ending predictable
 Farhan recommended me to read it 
 
 ### Who Should Read It?
- I feel this is more for the younger audience as the message in the book targets them more
+I feel this is more for the younger audience as the message in the book targets them more
 
 ### Actionable Takeaways
 1.  Follow your dreams: Santiago learns that he must follow his dreams and pursue his personal legend, even when it seems impossible or unlikely.
