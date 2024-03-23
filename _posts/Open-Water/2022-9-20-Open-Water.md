@@ -15,8 +15,8 @@ Nelson crafts a narrative that invites readers into a space where love and vulne
 ---
 ## About the book
 
-| X                      | X                                                                     |
-| :---------------------- | :--------------------------------------------------------------------- |
+|                        |                                                                      |
+| :--------------------- | :--------------------------------------------------------------------- |
 | Author:                | Caleb Azumah Nelson                                               |
 | Year of release:       | 2021                                                              |
 | Genre:                 | Fiction, Romance, Contemporary, Literary, Adult, Race, Novella |
