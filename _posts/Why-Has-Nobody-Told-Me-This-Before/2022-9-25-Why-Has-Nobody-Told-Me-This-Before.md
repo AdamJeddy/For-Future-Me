@@ -77,8 +77,9 @@ Tools might look great in the box. But they only help when you get them out and 
 
 - `Emotional reasoning` is a `thought bias` that leads us to use what we feel as evidence for something to be true, even when there might be plenty of evidence to suggest otherwise.
 
-> [!bug]
+
 > The thing about the human brain is that, when you believe something, the brain will scan the environment for any signs that the belief is true. Information that challenges our beliefs about ourselves and the world is psychologically threatening.
+{: .prompt-danger}
 
 - As we are building awareness of our thoughts, we need to work hard to see that pattern of thought as just one possible interpretation of the world and allow ourselves to consider alternatives. Spotting these common thought biases and labelling them helps us to do that.
 
@@ -110,8 +111,8 @@ Tools might look great in the box. But they only help when you get them out and 
 	- Taking power out of those thoughts starts with stepping back, getting some distance (metacognition) and seeing them for what they are.
 
 ### 4: How to turn bad days into better days
-> [!tip]
 > Keep it small. Keep it consistent. Slow change is sustainable change.
+{: .prompt-tip}
 
 - How do you want to feel instead?
 	- When we are trying to tackle low mood, the tendency is to focus on everything we don’t want to think and feel. There is value in doing that. But if we want to move away from what we don’t want, it helps to know where we do want to go instead.
@@ -185,8 +186,8 @@ This quote often comes to mind when I hear the common misconception that therapy
 	- If there is painful emotion, get curious, ask questions. What can they tell you?
 
 ### 11: What to do with emotions
-> [!danger] 
 >No amount of therapy or psychological skills is going to overturn the destructive impact of poor sleep or diet and lack of physical activity.
+{: .prompt-danger}
 
 - Increasing your emotional vocabulary so that you can distinguish finely between different emotions helps you to regulate those emotions and choose the most helpful responses in social situations (Kashdan et al., 2015).
 
@@ -207,10 +208,10 @@ This quote often comes to mind when I hear the common misconception that therapy
 	- Notice the words others use, read books and explore the ways you can keep building your emotional vocabulary.
 
 ### 13: How to support someone
-> [!important] 
 > When we focus on trying to fix the problem, it is easy to underestimate the power of simply being there. Most people don’t want to be told what to do. But they do want someone to keep showing up to check in and show they care.
+{: .prompt-tip}
 
-- you cannot support them at your best if your mental health starts to deteriorate. So it is absolutely imperative that you prioritize your own health too – even in small ways. Keep a close eye on the basics. Keep track of your sleep, routine, nutritional intake, exercise and social contact.
+- You cannot support them at your best if your mental health starts to deteriorate. So it is absolutely imperative that you prioritize your own health too – even in small ways. Keep a close eye on the basics. Keep track of your sleep, routine, nutritional intake, exercise and social contact.
 
 - Chapter summary
 	- It is normal to feel overwhelmed or inadequate when supporting someone with mental health problems. You want to fix it but you don’t know how.
@@ -233,7 +234,7 @@ This quote often comes to mind when I hear the common misconception that therapy
 	- Depression is a normal reaction after a bereavement.
 	- Acceptance is not the same as liking or agreeing with the situation.
 
-### Chapter 18: Dealing with criticism and disapproval
+### 18: Dealing with criticism and disapproval
 - Now, this chapter is not about to tell you to just stop caring what anyone else thinks of you. In fact, we are built to care about how we are being perceived by those around us. Criticism can be a sign that we haven’t lived up to expectation in some way and sometimes (but not always) can signal a risk of rejection or abandonment.
 
 - We develop our sense of self and identity, not only from our own experience and how we interact with others, but also through what we imagine those other people really think of us, the ideas and perceptions they might have of us. This is called the ‘looking glass self’ (Cooley, 1902).
@@ -246,10 +247,10 @@ This quote often comes to mind when I hear the common misconception that therapy
 
 - It is only later, as adults, that those behaviour patterns become detrimental to our relationships. We second-guess every move we make, always tentatively trying to work out what others are expecting of us.
 
-> [!info] 
 > The spotlight effect is a term originally coined by Thomas Gilovich and Kenneth Savitsky (2000) to describe the tendency of humans to overestimate how much others are focused on us. We are each at the centre of our own spotlight of attention and we tend to imagine that others are focused on us too, when in reality, everyone’s spotlights are usually on themselves.
+{: .prompt-info}
 
-### Chapter 19: The key to building confidence
+### 19: The key to building confidence
 - Confidence is like a home that you build for yourself. When you go somewhere new, you must build a new one. But when we do, we’re not starting from scratch. Every time we step into the unknown and try something new, experience that vulnerability, make mistakes, get through them and build some confidence, we move on to the next chapter with evidence that we can get through tough challenges.
 
 - Confident is not the same as comfortable. One of the biggest misconceptions about becoming self-confident is that it means living fearlessly. The key to building confidence is quite the opposite. It means we are willing to let fear be present as we do the things that matter to us.
@@ -266,26 +267,26 @@ This quote often comes to mind when I hear the common misconception that therapy
 	- Along the way, be your own coach, not your worst critic.
 	- Courage comes before confidence.
 
-### Chapter 20: You are not your mistakes
-- Most self-doubt is linked to the relationship we have with failure. How other people respond to your failure does not say anything about your own personality or worthiness.
+### 20: You are not your mistakes
+Most self-doubt is linked to the relationship we have with failure. How other people respond to your failure does not say anything about your own personality or worthiness.
 
-### Chapter 21: Being enough
+### 21: Being enough
 - The brick wall that most people hit on their way to self-acceptance is the misconception that it will cause laziness and complacency.
 
 - Self-acceptance is not the same as passively accepting defeat. Self-compassion often involves taking the more difficult road that is in your best interests.
 
-### Chapter 22: Make anxiety disappear!
-- Escape and avoidance only provides short-term relief but feeds anxiety in the long term.
+### 22: Make anxiety disappear!
+Escape and avoidance only provides short-term relief but feeds anxiety in the long term.
 
-### Chapter 23: Things we do that make anxiety worse
-> [!info]
+### 23: Things we do that make anxiety worse
 > Your brain learns like a scientist. Each time it has an experience, positive or negative, it clocks that as evidence for its beliefs. If you avoid the thing you fear, you never give yourself the chance to build up evidence in your mind that you can get through it and survive. Just telling your brain that something is safe is not enough. You must experience it.
+{: .prompt-info}
 
 - Safety behaviours – We can also come to rely on things that we associate with safety if we don’t trust ourselves to be able to cope when anxiety hits. We may feel unable to go anywhere without ‘just in case’ medications, or we take a mobile phone everywhere because looking down at it enables us to avoid conversation at social events.
 
 - Your brain will take some convincing, so you need to repeat that behaviour over and over. The things you do most often become your comfort zone.
 
-### Chapter 24: How to calm anxiety right now
+### 24: How to calm anxiety right now
 - Breathe in for 4 seconds, hold for 4 seconds, out for 4 seconds and hold for 4 seconds. Focusing on something square can act as a guide and help you to keep your attention on the breathing, minimizing the chances of being distracted too soon.
 
 - Chapter summary
@@ -293,12 +294,12 @@ This quote often comes to mind when I hear the common misconception that therapy
 	- To calm the body take slower, deeper breaths.
 	- Try to make the outbreath longer and more vigorous than the inbreath.
 
-### Chapter 25: What to do with anxious thoughts
+### 25: What to do with anxious thoughts
 
 - When a worrying thought pops into your head, it’s like driving past a car accident: you can’t not look at it. Thoughts of danger demand your attention for a reason. Your brain is offering up a story for what might be happening and if there is a chance of the worst-case scenario happening, then you had better be prepared.
 
-> [!todo] 
 > Spot biased thoughts that make you feel worse
+{: .prompt-info}
 
 - `Catastrophizing` is when your mind jumps to the worst possible scenario and offers it to you as a prediction of what might happen now. It plays that out for you like your own personal horror movie on repeat in your mind. It is one possible prediction, but not the only one.
 
@@ -308,20 +309,20 @@ This quote often comes to mind when I hear the common misconception that therapy
 - The `mental filter` is that tendency for us to hold on to all the information that makes us feel worse, and neglect all the information that could help us feel differently. 
 	- Let’s say you post something on social media and you get 50 comments. 49 of those comments are positive and encouraging. 1 is negative and points out something that you already felt insecure about. The mental filter is when we focus our attention on that one negative comment and neglect to consider the other forty-nine.
 
-> [!example] 
 > Overgeneralizing is when we take one experience and apply it to all experiences. If you interview for a job and get turned down, overgeneralizing thoughts would sound like, ‘I’m never going to get a job, so what’s the point of applying for anything else?’ or after a breakup, ‘I screw up every relationship so I’m not going to date ever again.’
+{: .prompt-info}
 
 - It leads to a more intense spike of emotion because it turns one problem into a bigger, life problem. Secondly, it often leads us to avoid the situation in the future, which feeds anxiety and makes it much harder to face.
 
 - Each emotion, behaviour and period in our lives is temporary and not necessarily a reflection of who we are permanently.
 
-> [!info] 
 > Our brains take in and process a lot of information every second of every day. But the world around us offers infinite amounts of information. If your brain was to try and process everything, you would not be able to function.
+{: .prompt-info}
 
-> [!TIP] 
 > Our attention is like a spotlight. We have control of that spotlight, but we cannot control the actors who come on stage. We cannot control how long they spend there, what they say, or when they leave. What we get to do is focus that spotlight on one or two of them at a time. If we settle our focus on the anxious thoughts that tell stories of worst-case scenarios and images of you not coping, they get the chance to feed back to the brain that all is not well.
+{: .prompt-tip}
 
-### Chapter 26: Fear of the inevitable
+### 26: Fear of the inevitable
 
 - Irvin Yalom, Emeritus Professor of Psychiatry at Stanford University, describes it perfectly in his book, Staring at the Sun.
 > ‘It’s not easy to live every moment wholly aware of death. It’s like trying to stare the sun in the face: you can stand only so much of it.’
@@ -339,13 +340,13 @@ This quote often comes to mind when I hear the common misconception that therapy
 	- Acceptance of death is not the same as giving up on life. Quite the opposite.
 	- Acceptance of death allows us to bring meaning to life.
 
-### Chapter 28: Why reducing stress is not the only answer
+### 28: Why reducing stress is not the only answer
 Stress is not always the enemy. It is also our most valuable tool.
 Learning to replenish after a period of stress is more realistic than trying to eliminate it.
 Stress helps you to perform and do what matters but we were not built to be in a constant state of stress.
 We need stress for a fun and challenging life, but too much and the benefits are lost.
 
-### Chapter 29: When good stress goes bad
+### 29: When good stress goes bad
 
 - Burnout happens when that short-term stress response that we have is repeatedly triggered over a prolonged period, without enough chance to rest and restore in between. There is often a chronic mismatch between the individual and one of the following:
 	1. Control – Living in a situation in which you do not have the resources needed to meet the demands you are faced with.
@@ -361,17 +362,17 @@ We need stress for a fun and challenging life, but too much and the benefits are
 	- There is no silver bullet that works for everything. The right balance for one person will be unrealistic for another.
 	- If you are showing signs of burnout, listen to them and respond now by starting to meet your needs.
 
-### Chapter 30: Making stress work for you
+### 30: Making stress work for you
 - When we focus on how our actions, big or small, can help others, we show less stress response in difficult and demanding situations (Abelson et al., 2014).
 
 - Mindfulness is not ultimate, unbroken concentration. It is the process of noticing when your mind shifts its focus and intentionally choosing to redirect that focus back to the present moment.
 
 - Goals founded in contribution rather than competition helps us to stay motivated and persevere under stress.
 
-### Chapter 31: Coping when it counts
-- In fact, research shows that simply reminding someone that their performance improves under pressure improves their actual performance by 33% (Jamieson et al., 2018).
+### 31: Coping when it counts
+In fact, research shows that simply reminding someone that their performance improves under pressure improves their actual performance by 33% (Jamieson et al., 2018).
 
-### Chapter 32: The problem with ‘I just want to be happy’
+### 32: The problem with ‘I just want to be happy’
 - humans are not built to be in a constant happy state. We are built to respond to the challenges of survival. Emotions are a reflection of our physical state, our actions, beliefs and what is going on around us. All of those things are constantly changing. Therefore, a normal state is one that constantly changes too.
 
 - It’s not so much that they are struggling to achieve their goals. They are not sure which goals to set in the first place, and whether any of them feel worth it.
@@ -379,5 +380,5 @@ We need stress for a fun and challenging life, but too much and the benefits are
 - Values are not the same as goals. A goal is a concrete, finite thing that you can work towards. Once you achieve it, that is the end point. Then you have to look for the next goal. A goal might be passing an exam, ticking everything off your to do list, or running a personal best. Values are not a set of actions that can be completed. Values are a set of ideas about how you want to live your life, the kind of person you want to be and the principles you want to stand for.
 	- Shorten version: `Values are different from goals. Goals are specific actions that can be completed, while values are guiding principles about how we want to live our lives. Values shape our behaviors and overall direction, while goals are temporary and specific.`
 
-### Chapter 34: How to create a life with meaning
-- Overly focusing on outcome can lead us to quit more easily when we don’t see results quickly enough or when we meet resistance and hurdles along the way.
+### 34: How to create a life with meaning
+Overly focusing on outcome can lead us to quit more easily when we don’t see results quickly enough or when we meet resistance and hurdles along the way.
