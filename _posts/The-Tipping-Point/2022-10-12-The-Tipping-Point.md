@@ -26,7 +26,7 @@ comment: true
 It explores the concept of how small changes can have a significant impact and lead to a "tipping point" in various systems and phenomena.
 
 ### How I Discovered It
-- Bought the book in the flea market, so I read it.
+Bought the book in the flea market, so I read it.
 
 ### Actionable Takeaways
 1. The "law of the few" states that certain types of people, known as "influencers," are key to spreading ideas and behaviors. Identifying and targeting these influencers can be an effective way to spread an idea or behavior.
@@ -53,7 +53,7 @@ It explores the concept of how small changes can have a significant impact and l
 ### Introduction
 > The Tipping Point is the moment of critical mass, the threshold, the boiling point.
 
-- We are all, at heart, gradualists, our expectations set by the steady passage of time. But the world of the Tipping Point is a place where the unexpected becomes expected,where radical change is more than possibility. It is—contrary to all our expectations—a certainty.
+We are all, at heart, gradualists, our expectations set by the steady passage of time. But the world of the Tipping Point is a place where the unexpected becomes expected,where radical change is more than possibility. It is—contrary to all our expectations—a certainty.
 
 ### ONE: The 3 Rules of Epidemics
 - in a given process or system some people matter more than others. This is not, on the face of it, a particularly radical notion. Economists often talk about the 80/20 Principle, which is the idea that in any situation roughly 80% of the “work” will be done by 20% of the participants. In most societies, 20% of criminals commit 80% of crimes. Twenty percent of motorists cause 80% of all accidents.
@@ -75,8 +75,16 @@ It explores the concept of how small changes can have a significant impact and l
 
 - My social circle is, in reality, not a circle. It is a pyramid. And at the top of the pyramid is a single person—Jacob—who is responsible for an overwhelming majority of the relationships that constitute my life. Not only is my social circle not a circle, but it’s not “mine” either. It belongs to Jacob. It’s more like a club that he invited me to join. These people who link us up with the world, who bridge Omaha and Sharon, who introduce us to our social circles—these people on whom we rely more heavily than we realize—are `Connectors`, people with a special gift for bringing the world together.
 
-> [!tldr]
-> Sociologist Mark Granovetter conducted a study in which he interviewed professional and technical workers in the Boston suburb of Newton about their employment history. He found that the majority of those who found their job through a personal connection did so through an "occasional" or "rare" contact, rather than a close friend. This suggests that people are more likely to get job opportunities through acquaintances rather than close friends.
+```
+tldr
+
+Sociologist Mark Granovetter conducted a study in which he interviewed professional and technical 
+workers in the Boston suburb of Newton about their employment history. He found that the majority 
+of those who found their job through a personal connection did so through an "occasional" or 
+"rare" contact, rather than a close friend. This suggests that people are more likely to get 
+job opportunities through acquaintances rather than close friends.
+
+```
 
 - Sociologist Mark Granovetter. In his classic 1974 study Getting a Job, Granovetter looked at several hundred professional and technical workers from the Boston suburb of Newton, interviewing them in some detail on their employment history. He found that 56% of those he talked to found their job through a personal connection. Another 18.8% used formal means (advertisements) and roughly 20% applied directly. This much is not surprising; the best way to get in the door is through a personal contact. But, curiously, Granovetter found that of those personal connections, the majority were “weak ties.” Of those who used a contact to find a job, only 16.7% saw that contact “often”—as they would if the contact were a good friend—and 55.6% saw their contact only “occasionally.” 28% saw the contact “rarely.” People weren’t getting their jobs through their friends. They were getting them through their acquaintances.
 
@@ -84,8 +92,8 @@ It explores the concept of how small changes can have a significant impact and l
 
 - Paul Revere was a `Connector`. But he was also—and this is the second of the 3 kinds of people who control word of mouth epidemics—a `Maven`.
 
-> [!info]
 > The word Maven comes from the Yiddish, and it means one who accumulates knowledge.
+{: .prompt-info}
 
 - Economists have spent a great deal of time studying Mavens, for the obvious reason that if marketplaces depend on information, the people with the most information must be the most important.
 
@@ -107,19 +115,29 @@ It explores the concept of how small changes can have a significant impact and l
 
 - “There are carriers, people who are very expressive, and there are people who are especially susceptible. It’s not that emotional contagion is a disease. But the mechanism is the same.”
 
-> [!summary] 
-> Gladwell argues that these three types of people are key to spreading ideas and behaviors, and that targeting them can be an effective way to bring about change.
-> 1.  Connectors: Connectors are individuals who have a wide network of connections and are adept at bringing people together. They often have a natural ability to connect with others and introduce them to new ideas and opportunities.
-> 2. Mavens: Mavens are individuals who are experts in a particular field and are highly knowledgeable about a wide range of topics. They are often sought out as sources of information and are effective at spreading ideas and behaviors to others.
-> 3. Salesmen: Salesmen are individuals who are skilled at persuading and influencing others. They are often charismatic and able to convince others to adopt new ideas or behaviors.
+``` 
+Gladwell argues that these three types of people are key to spreading ideas and behaviors, and that 
+targeting them can be an effective way to bring about change.
+
+1.  Connectors: Connectors are individuals who have a wide network of connections and are adept at 
+bringing people together. They often have a natural ability to connect with others and introduce 
+them to new ideas and opportunities.
+
+2. Mavens: Mavens are individuals who are experts in a particular field and are highly knowledgeable 
+about a wide range of topics. They are often sought out as sources of information and are effective 
+at spreading ideas and behaviors to others.
+
+3. Salesmen: Salesmen are individuals who are skilled at persuading and influencing others. They 
+are often charismatic and able to convince others to adopt new ideas or behaviors.
+```
 
 ### THREE: The Stickiness Factor
 - The creators of Sesame Street accomplished something extraordinary, and the story of how they did that is a marvelous illustration of the second of the rules of the Tipping Point, the Stickiness Factor. They discovered that by making small but critical adjustments in how they presented ideas to preschoolers, they could overcome television’s weakness as a teaching tool and make what they had to say memorable. Sesame Street succeeded because it learned how to make television sticky.
 
 - In epidemics, the messenger matters: messengers are what make something spread. But the content of the message matters too. And the specific quality that a message needs to be successful is the quality of “`stickiness`.”
 
-> [!caution] 
->Kids don’t watch when they are stimulated and look away when they are bored. They watch when they understand and look away when they are confused.
+> Kids don’t watch when they are stimulated and look away when they are bored. They watch when they understand and look away when they are confused.
+{: .prompt-danger}
 
 - When we read, we are capable of taking in only about 1 key word and then 4 characters to the left and 15 characters to the right at any one time. We jump from one of these chunks to another, pausing—or fixating—on them long enough to make sense of each letter.
 
@@ -141,8 +159,8 @@ It explores the concept of how small changes can have a significant impact and l
 
 - Once we’re part of a group, we’re all susceptible to peer pressure and social norms and any number of other kinds of influence that can play a critical role in sweeping us up in the beginnings of an epidemic.
 
-> [!info]
 > There is a concept in cognitive psychology called the channel capacity, which refers to the amount of space in our brain for certain kinds of information.
+{: .prompt-info}
 
 - “There seems to be some limitation built into us either by learning or by the design of our nervous systems, a limit that keeps our channel capacities in this general range,” the psychologist George Miller concluded in his famous essay “The Magical Number Seven.” This is the reason that telephone numbers have 7 digits.
 
