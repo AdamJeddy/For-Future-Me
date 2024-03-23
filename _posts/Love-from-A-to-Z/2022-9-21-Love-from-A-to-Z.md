@@ -3,7 +3,7 @@ layout: post
 title:  "📕 Love from A to Z"
 created: ["21-September-2022 11:30"]
 categories: [Summarized, Book]
-tags: [Reviews, Summary, Book, Romance, Contemporary, Fiction, YoungAdult, Muslims ]
+tags: [Reviews, Summary, Book, Romance, Contemporary, Fiction, Young Adult, Muslims ]
 toc: true
 comment: true
 ---
