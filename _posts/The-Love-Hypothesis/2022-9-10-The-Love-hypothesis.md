@@ -13,7 +13,7 @@ Diving into the complexities of academic life and romance, "The Love Hypothesis"
 ---
 ## About the book
 
-| X                      | X       |
+|                       |        |
 | :---------------------- | :------- |
 | Author:                | Ali Hazelwood        |
 | Year of release:       | 2021        |
