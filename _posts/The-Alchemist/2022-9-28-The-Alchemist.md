@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "📕 Why Has Nobody Told Me This Before"
-created: ["21-September-2022 11:30"]
+title:  "📕 The Alchemist"
+created: ["28-September-2022 11:30"]
 categories: [Summarized, Book]
 tags: [Reviews, Summary, Book, Fiction, Classics, Fantasy, Philosophy, Novels, Spirituality, Self-Help, Literature, Adventure, Inspirational ]
 toc: true
 comment: true
 ---
 
-
+A shepherd who dreams of finding treasure in Egypt. On his journey, Santiago learns the importance of following his dreams, taking risks, and believing in himself. The book shares the message that life's true treasures are found in pursuing our own paths and listening to our hearts. Recommended for young readers, it's a simple, inspirational story about the adventure and learning that come with chasing one's dreams.
 
 ---
 ## About the book
