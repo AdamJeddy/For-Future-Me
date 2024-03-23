@@ -3,7 +3,7 @@ layout: post
 title:  "📚 The Wonderful Wizard of Oz 🧙‍♀️🦁🎭🌪️"
 created: ["17-August-2022 14:25"]
 categories: [Summarized, Book]
-tags: [Reviews, Summary, Book, Literature, Fantasy, Fiction, Classics, Adventure ]
+tags: [Reviews, Summary, Book, Literature, Fantasy, Fiction, Classics, Adventure, "1900" ]
 toc: true
 comment: true
 ---

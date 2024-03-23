@@ -3,7 +3,7 @@ layout: post
 title:  "📕 The Tipping Point"
 created: ["12-October-2022 11:30"]
 categories: [Summarized, Book]
-tags: [Reviews, Summary, Book, Nonfiction, Business, Psychology, Sociology, Self-Help, Science, Economics, Leadership ]
+tags: [Reviews, Summary, Book, Nonfiction, Business, Psychology, Sociology, Self-Help, Science, Economics, Leadership, "2000" ]
 toc: true
 comment: true
 ---

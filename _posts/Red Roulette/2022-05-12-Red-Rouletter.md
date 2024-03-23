@@ -3,7 +3,7 @@ layout: post
 title:  "📚 Red Roulette"
 created: ["12-May-2022 22:31"]
 categories: [Summarized, Book]
-tags: [Reviews, Summary, Book, Cultural, China, Nonfiction, Politics, Business, Autobiography, History, Economics, Society]
+tags: [Reviews, Summary, Book, Cultural, China, Nonfiction, Politics, Business, Autobiography, History, Economics, Society, "2021"]
 toc: true
 comment: true
 ---

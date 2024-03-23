@@ -3,7 +3,7 @@ layout: post
 title:  "📚 How To Analyze People: 13 Laws of Manipulating the Human Mind"
 created: ["25-May-2022 19:45"]
 categories: [Summarized, Book]
-tags: [Reviews, Summary, Book, Nonfiction, Psychology ]
+tags: [Reviews, Summary, Book, Nonfiction, Psychology, "2022" ]
 toc: true
 comment: true
 ---

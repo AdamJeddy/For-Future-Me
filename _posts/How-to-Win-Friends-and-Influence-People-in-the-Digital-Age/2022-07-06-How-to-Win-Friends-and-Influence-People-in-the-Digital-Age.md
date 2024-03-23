@@ -3,7 +3,7 @@ layout: post
 title:  "📚 How to Win Friends and Influence People in the Digital Age"
 created: ["6-July-2022 22:56"]
 categories: [Summarized, Book]
-tags: [Reviews, Summary, Book, Communication, Self-Help, Nonfiction, Psychology, Leadership, Relationships ]
+tags: [Reviews, Summary, Book, Communication, Self-Help, Nonfiction, Psychology, Leadership, Relationships, "2011" ]
 toc: true
 comment: true
 ---

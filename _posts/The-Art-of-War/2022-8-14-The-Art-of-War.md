@@ -3,7 +3,7 @@ layout: post
 title:  "📚 The Art of War ⚔️"
 created: ["14-August-2022 22:22"]
 categories: [Summarized, Book]
-tags: [Reviews, Summary, Book, Classics, Nonfiction, Philosophy, History, War, Politics, Leadership ]
+tags: [Reviews, Summary, Book, Classics, Nonfiction, Philosophy, History, War, Politics, Leadership, "1772" ]
 toc: true
 comment: true
 ---

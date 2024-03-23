@@ -3,7 +3,7 @@ layout: post
 title:  "📚 Normal People"
 created: ["24-June-2022 14:10"]
 categories: [Summarized, Book]
-tags: [Reviews, Summary, Book, Fiction, Novel, Contemporary, Adult]
+tags: [Reviews, Summary, Book, Fiction, Novel, Contemporary, Adult, "2018"]
 toc: true
 comment: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title:  "📚 Art of Not Giving a F*ck"
 created: ["28-January-2022 20:52"]
 categories: [Summarized, Book]
-tags: [Reviews, Summary, Book, Self-Help, Relationships, Lifestyle]
+tags: [Reviews, Summary, Book, Self-Help, Relationships, Lifestyle, "2016"]
 toc: true
 comment: true
 ---

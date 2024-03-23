@@ -3,7 +3,7 @@ layout: post
 title:  "📚 Tuesdays with Morrie"
 created: ["31-March-2022 21:56"]
 categories: [Summarized, Book]
-tags: [Reviews, Summary, Book]
+tags: [Reviews, Summary, Book, "1997"]
 toc: true
 comment: true
 ---

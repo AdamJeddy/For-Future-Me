@@ -3,7 +3,7 @@ layout: post
 title:  "📚 The Picture of Dorian Gray"
 created: ["29-April-2022 22:42"]
 categories: [Summarized, Book]
-tags: [Reviews, Summary, Book, Classics, Fiction, Horror, Fantasy, Gothic, Literature, Novels, Philosophy]
+tags: [Reviews, Summary, Book, Classics, Fiction, Horror, Fantasy, Gothic, Literature, Novels, Philosophy, "1890"]
 toc: true
 comment: true
 ---

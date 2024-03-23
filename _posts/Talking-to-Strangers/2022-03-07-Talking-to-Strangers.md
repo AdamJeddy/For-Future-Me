@@ -3,7 +3,7 @@ layout: post
 title:  "📚 Talking to Strangers"
 created: ["31-March-2022 21:42"]
 categories: [Summarized, Book]
-tags: [Reviews, Summary, Book, Psychology, Sociology]
+tags: [Reviews, Summary, Book, Psychology, Sociology,  "2019"]
 toc: true
 comment: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title:  "📚 The Kite Runner 🪁🏃‍♂️"
 created: ["12-July-2022 19:28"]
 categories: [Summarized, Book]
-tags: [Reviews, Summary, Book, Fiction, Historical, Novel, Adult, Literature, Drama ]
+tags: [Reviews, Summary, Book, Fiction, Historical, Novel, Adult, Literature, Drama, "2003" ]
 toc: true
 comment: true
 ---

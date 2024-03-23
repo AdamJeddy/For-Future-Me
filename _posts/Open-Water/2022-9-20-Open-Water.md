@@ -3,7 +3,7 @@ layout: post
 title:  "📕 Open Water"
 created: ["20-September-2022 10:36"]
 categories: [Summarized, Book]
-tags: [Reviews, Summary, Book, Fiction, Romance, Contemporary, Literary, Adult, Race, Novella ]
+tags: [Reviews, Summary, Book, Fiction, Romance, Contemporary, Literary, Adult, Race, Novella, "2021" ]
 toc: true
 comment: true
 ---

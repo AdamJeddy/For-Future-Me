@@ -3,7 +3,7 @@ layout: post
 title:  "📚 Milk and Honey"
 created: ["25-March-2022 21:42"]
 categories: [Summarized, Book]
-tags: [Reviews, Summary, Book, Poetry, Feminism]
+tags: [Reviews, Summary, Book, Poetry, Feminism, "2014"]
 toc: true
 comment: true
 ---

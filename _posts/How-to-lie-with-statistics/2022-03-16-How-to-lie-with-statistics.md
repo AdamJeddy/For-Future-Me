@@ -3,7 +3,7 @@ layout: post
 title:  "📚 How to Lie with Statistics"
 created: ["31-March-2022 21:59"]
 categories: [Summarized, Book]
-tags: [Reviews, Summary, Book, Statistics]
+tags: [Reviews, Summary, Book, Statistics, "1954"]
 toc: true
 comment: true
 ---

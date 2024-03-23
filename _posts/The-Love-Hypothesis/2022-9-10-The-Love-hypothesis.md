@@ -3,7 +3,7 @@ layout: post
 title:  "📕 The Love Hypothesis"
 created: ["10-September-2022 17:50"]
 categories: [Summarized, Book]
-tags: [Reviews, Summary, Book, Romance , Contemporary , Fiction , Adult ]
+tags: [Reviews, Summary, Book, Romance , Contemporary , Fiction , Adult, "2021" ]
 toc: true
 comment: true
 ---

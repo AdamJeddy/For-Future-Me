@@ -3,7 +3,7 @@ layout: post
 title:  "📚 Atomic Habits"
 created: ["15-April-2022 16:52"]
 categories: [Summarized, Book]
-tags: [Reviews, Summary, Book, Self-Help, Leadership, Health, Education, Philosophy ]
+tags: [Reviews, Summary, Book, Self-Help, Leadership, Health, Education, Philosophy, "2018" ]
 toc: true
 comment: true
 ---

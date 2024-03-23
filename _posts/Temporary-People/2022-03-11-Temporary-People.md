@@ -3,7 +3,7 @@ layout: post
 title:  "📚 Temporary People"
 created: ["31-March-2022 21:55"]
 categories: [Summarized, Book]
-tags: [Reviews, Summary, Book, Short Stories, Fiction, MiddleEast, Contemporary, Immigrants]
+tags: [Reviews, Summary, Book, Short Stories, Fiction, MiddleEast, Contemporary, Immigrants, "2017"]
 toc: true
 comment: true
 ---

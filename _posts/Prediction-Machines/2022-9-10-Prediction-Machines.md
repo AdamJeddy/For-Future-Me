@@ -3,7 +3,7 @@ layout: post
 title:  "📕 Prediction Machines: The Simple Economics of Artificial Intelligence"
 created: ["10-September-2022 15:50"]
 categories: [Summarized, Book]
-tags: [Reviews, Summary, Book, Business, Artificial Intelligence, Economics, Nonfiction, Science, Technology ]
+tags: [Reviews, Summary, Book, Business, Artificial Intelligence, Economics, Nonfiction, Science, Technology, "2018" ]
 toc: true
 comment: true
 ---

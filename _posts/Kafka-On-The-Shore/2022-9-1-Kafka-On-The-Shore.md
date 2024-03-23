@@ -3,7 +3,7 @@ layout: post
 title:  "📕 Kafka On The Shore"
 created: ["1-September-2022 14:25"]
 categories: [Summarized, Book]
-tags: [Reviews, Summary, Book, Fiction, Magical Realism, Fantasy, Japan, Contemporary, Literature, Novel ]
+tags: [Reviews, Summary, Book, Fiction, Magical Realism, Fantasy, Japan, Contemporary, Literature, Novel, "2002" ]
 toc: true
 comment: true
 ---

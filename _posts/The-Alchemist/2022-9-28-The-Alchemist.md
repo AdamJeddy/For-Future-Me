@@ -3,7 +3,7 @@ layout: post
 title:  "📕 The Alchemist 🔮🐑🌍"
 created: ["28-September-2022 11:30"]
 categories: [Summarized, Book]
-tags: [Reviews, Summary, Book, Fiction, Classics, Fantasy, Philosophy, Novels, Spirituality, Self-Help, Literature, Adventure, Inspirational ]
+tags: [Reviews, Summary, Book, Fiction, Classics, Fantasy, Philosophy, Novels, Spirituality, Self-Help, Literature, Adventure, Inspirational, '1988' ]
 toc: true
 comment: true
 ---
